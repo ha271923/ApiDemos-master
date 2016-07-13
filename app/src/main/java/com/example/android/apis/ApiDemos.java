@@ -21,6 +21,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
@@ -145,6 +146,18 @@ public class ApiDemos extends ListActivity {
 
         Intent intent = new Intent((Intent) map.get("intent"));
         intent.addCategory(Intent.CATEGORY_SAMPLE_CODE);
+        printCurrentActivityName(intent);
         startActivity(intent);
     }
+
+    private void printCurrentActivityName(Intent intent){
+        // Hawk: print the current activity name on logcat
+        String NowClassName = intent.getComponent().getClassName();
+        String RootClassName = "com.example.android.apis.ApiDemos";
+        if(NowClassName.equals(RootClassName))
+            ;
+        else
+            Log.e("Hawk:" , NowClassName);
+    }
+
 }

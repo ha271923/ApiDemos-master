@@ -1,12 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 24
     buildToolsVersion "24.0.0"
 
     defaultConfig {
         applicationId "com.example.android.apis"
-
+        minSdkVersion 23
+        targetSdkVersion 23
         testApplicationId "com.example.android.apis.tests"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
     }
@@ -17,4 +18,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:24.0.0'
 }
