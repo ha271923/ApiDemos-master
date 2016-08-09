@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content><title>Your HTC One User guide</title>
+<categories>
+<category title="Setting up your phone" icon="icon_launcher_htc_setup_wizard.png">
+<article title="Setting up your new phone for the first time" icon="" ext_ref="GUID-36953DFC-287F-4419-A89C-D9040177AB6F.html" description="When you switch on your new phone for the first time, you’ll be asked to set it up." subject="transfer_data" keywords="Setup, initial setup" />
+<article title="Transferring content from an Android phone" icon="" ext_ref="GUID-E9BF46A8-0F60-4616-944D-3570C4D84067.html" description="On your old Android phone, download the HTC Transfer Tool and use it to transfer your content to your new HTC phone." coverage="topic_tag-transfer_data" subject="transfer_data" keywords="Data transfer, from Android phone, transfer, migrate, Samsung, Motorola, LG">
+<subarticle title="Don&#039;t have an Internet connection on your old phone?" icon="" ext_ref="GUID-BBC98826-F6D4-4744-A7D9-C5806174A94C.html" description="On your old phone, turn on Wi‑Fi and connect to the hotspot that you see on your new HTC phone." />
+</article>
+<article title="Transferring content from an iPhone" icon="" ext_ref="GUID-597F56FB-A2F3-4792-AA5A-6EA5274BB915.html" description="If you have an iPhone, it&#039;s fast and easy to transfer your contacts, messages, and other content when you use HTC Sync Manager." subject="transfer_data" />
+<article title="Transferring content from your old phone through Bluetooth" icon="" ext_ref="GUID-AD67F60E-D966-4F9A-8037-5AB5AFE6B4A9.html" description="Use Bluetooth to transfer contacts from an iPhone, a phone that has Android version 2.2 (or earlier version), or other types of phones." subject="transfer_data" keywords="Data transfer, from iPhone and other phones, transfer, migrate from iPhone, Blackberry, Windows Phone" />
+<article title="Getting contacts and other content into [generic phone name]" icon="" ext_ref="GUID-8B9E9A9D-01BE-4998-B584-451A81049839.html" description="Aside from the HTC Transfer Tool, there are other ways you can add contacts and other content to [generic phone name]." coverage="topic_tag-people-get_contacts_to_phone" subject="people" keywords="Setup, contacts from old phone, People, transferring contacts, importing contacts, copying contacts, Contacts, Data transfer" />
+<article title="Transferring photos, videos, and music between your phone and computer" icon="" ext_ref="GUID-8BADD303-DCDC-408D-A83E-945A65619FA5.html" description="There are two ways you can transfer your media from or to your computer." coverage="topic_tag-connections_computer-get_media_on_off" subject="connections_computer" keywords="Videos, transferring from computer, Setup, photos, music, videos from old phone, Photos, transferring from computer" />
+<article title="Home screen" icon="" ext_ref="GUID-1455E8B2-8966-4E1A-9EFA-953BE676F6DD.html" description="Your Home screen is where you make [generic phone name] your own." subject="home_screen" keywords="Home screen, extended" />
+<article title="Getting to know your settings" icon="" ext_ref="GUID-FCB6B8AF-0676-43F5-9C0B-546372CB4B09.html" subject="settings" />
+<article title="Updating the [generic phone name] software" icon="" ext_ref="GUID-0A390C60-5BCC-4797-A3A3-AAF498AF86CC.html" description="[generic phone name] can check and notify you if there’s a new update available." subject="updates" keywords="Phone updates, Firmware, Software update, Upgrade, FOTA, upgrade, android, update">
+<subarticle title="Installing a software update" icon="" ext_ref="GUID-D1C76115-30CB-4D1A-B091-5FC5DD3FFC12.html" description="When Internet connection is on and there&#039;s a new software update available, the update notification icon appears in the status bar." />
+<subarticle title="Installing an application update" icon="" ext_ref="GUID-9ABC2632-37F4-4456-B676-BEAE69C3E129.html" description="When Internet connection is on and there&#039;s an available update for your HTC or mobile operator apps, the update notification icon appears in the status bar." keywords="Apps, updating, background, data, update, upgrade, android" />
+<subarticle title="Checking for updates manually" icon="" ext_ref="GUID-37824768-209E-413F-AB5E-C3F9E67F5235.html" />
+</article>
+</category>
+<category title="Your first week with your new phone" icon="icon_launcher_show_me.png">
+<section title="About your phone">
+<article title="Features you&#039;ll enjoy on [generic phone name]" icon="" ext_ref="GUID-4ACCD573-5D07-4A3F-A12E-FA2E8E4F5FEC.html" description="On this phone, enjoy taking shots with the camera, checking personalized content with HTC BlinkFeed, and more." subject="apps" />
+</section>
+<section title="Basics">
+<article title="Touch gestures" icon="" ext_ref="GUID-5551D2F7-CE06-4A18-9CE0-B3501E15B771.html" description="Use touch gestures to get around the Home screen, open apps, scroll through lists, and more." coverage="topic_tag-controls-touch" subject="controls" keywords="Finger gestures, Gestures, touch gestures">
+<subarticle title="Can&#039;t use multi-finger gestures in your apps?" icon="" ext_ref="GUID-9AE15372-2ABD-4052-AFCF-BC1BD3C9AF59.html" description="That&#039;s because HTC gestures is enabled by default." />
+</article>
+<article title="Motion gestures" icon="" ext_ref="GUID-5D044B1A-A232-482E-A05B-1531DA76AF6D.html" description="Use motion gestures to mute, lower the ringtone volume, and more." coverage="topic_tag-controls-motion" subject="controls" keywords="Gestures, motion gestures" />
+<article title="Sleep mode" icon="" ext_ref="GUID-A40BAB2C-11DB-430D-9304-00F73CD664D0.html" description="Sleep mode saves battery power by putting [generic phone name] into a low power state while the display is off." coverage="topic_tag-power-sleep_mode" subject="power" keywords="Screen, Display, Sleep mode">
+<subarticle title="Switching to Sleep mode" icon="" ext_ref="GUID-5E4351D5-80D0-4C14-8911-276555A6FA55.html" keywords="Power, sleep mode, Sleep mode" />
+<subarticle title="Waking up from Sleep mode" icon="" ext_ref="GUID-0B16C272-A91C-4072-9232-5F348F970924.html" />
+</article>
+<article title="Unlocking the screen" icon="" ext_ref="GUID-CF21B30C-2EFA-4BA3-95BB-D520623EBFCE.html" subject="power" keywords="Idle screen, Lock screen, dismissing an alarm, unlocking, Screen, idle screen, lock, screen" />
+<article title="Opening an app" icon="" ext_ref="GUID-D6DEE996-0D94-4767-AC55-625AAF3CD19E.html" subject="apps">
+<subarticle title="Opening an app or folder from the lock screen" icon="" ext_ref="GUID-07DBEB7B-1AC7-4183-ABB7-C3871F7C94B7.html" keywords="Shortcuts, Lock screen, opening an app" />
+</article>
+<article title="Switching between recently opened apps" icon="" ext_ref="GUID-B40287AF-F470-4C83-A50E-01ECD144676C.html" description="When you&#039;re multitasking and using different apps on [generic phone name], you can easily switch between the apps you&#039;ve recently opened." subject="notifications" />
+<article title="Refreshing content" icon="" ext_ref="GUID-323AB55A-760E-4DDF-80CC-A911417028F3.html" description="In some apps, you can easily refresh content that&#039;s synced or downloaded from the Web with a simple finger gesture." subject="apps" />
+<article title="Capturing the [generic phone name] screen" icon="" ext_ref="GUID-97A975AC-5C2E-44AB-99FC-E41596E2F66D.html" description="It&#039;s easy to take a picture of the screen and share it from Gallery." subject="controls" keywords="Capture screen, Print screen, Screen shot, Screen, capture, print" />
+</section>
+<section title="Home screen feeds">
+<article title="Checking feeds on your Home screen" icon="" ext_ref="GUID-752665D7-847B-4D93-A89A-EDC04A347024.html" description="Set up which social networks, news sources, and more will appear. [generic phone name] refreshes the stream every time you return to the Home screen." coverage="topic_tag-home_screen-check_feeds" subject="home_screen" keywords="Feeds view, about, Home screen, feeds, stream, news subscriptions" />
+<article title="Your social networks" icon="" ext_ref="GUID-29EA709A-73A2-400B-819C-3374D5916325.html" description="When you sign in to your social network accounts and authorize HTC Sense to access them, you can:" subject="friend_stream" keywords="Accounts, social network accounts, Social networks">
+<subarticle title="Posting an update on your social network" icon="" ext_ref="GUID-B6E89333-4CB6-4073-9A6B-39885A34626C.html" description="You can easily post a status update from the Home screen." />
+</article>
+<article title="Selecting feeds" icon="" ext_ref="GUID-F08DAF33-1DD4-43B6-A3C2-53B15A827876.html" description="Choose which feeds to display on the Home screen. You can select popular news channels and websites or choose a category like Entertainment. You can also show posts from friends in social networks or information from apps such as Calendar." coverage="topic_tag-home_screen-configure_feeds" subject="home_screen" keywords="Feeds view, selecting feeds">
+<subarticle title="Can I subscribe to a different news source or channel?" icon="" ext_ref="GUID-AA71AEBF-23F4-407F-89A2-7EA63A242835.html" description="To see a different list of news sources, change the local content." />
+</article>
+</section>
+<section title="Notifications">
+<article title="Notification LED" icon="" ext_ref="GUID-8E5B2C74-95DB-48AD-81A1-8CFFB36DD889.html" subject="notifications" />
+<article title="Notifications panel" icon="" ext_ref="GUID-B0B9CFC6-448C-4853-80A9-A30CBF333220.html" description="When you see notification icons, open the Notifications panel to check out details of the notifications that you&#039;ve received." coverage="topic_tag-notifications-notifications_panel" subject="notifications" keywords="Notifications, panel" />
+</section>
+<section title="Working with text">
+<article title="Selecting, copying, and pasting text" icon="" ext_ref="GUID-D8A7D4AB-E308-4213-8BDA-196043BC559B.html" description="In apps such as the web browser and Mail, you can select and copy text, and then paste or share it." coverage="topic_tag-text_selection-copy_lookup_share_text" subject="text_selection" keywords="Copying, Copying, text">
+<subarticle title="Sharing text" icon="" ext_ref="GUID-EBB4F393-8E50-4248-B097-D0FAC65D9454.html" keywords="Sharing, Sharing, text" />
+</article>
+<article title="The HTC Sense keyboard" icon="" ext_ref="GUID-F687D288-010C-4C10-AEAF-514680B3E76D.html" description="Typing is fast and accurate with the HTC Sense keyboard." subject="keyboard" keywords="Keyboard, HTC Sense keyboard" />
+<article title="Entering text" icon="" ext_ref="GUID-9728DB86-2C28-403F-9142-F9D902100EF2.html" description="Enter letters and numbers, change the keyboard layout or language, and more." coverage="topic_tag-keyboard-enter_text" subject="keyboard" keywords="Keyboard, entering text">
+<subarticle title="Selecting a keyboard layout" icon="" ext_ref="GUID-1547482B-BB16-42B0-97D0-F1ADFA55554E.html" description="Choose a keyboard layout that suits your typing style." keywords="Keyboard, layout" />
+<subarticle title="Choosing and switching between keyboard languages" icon="" ext_ref="GUID-01CAB80B-704F-4602-82D8-99210E3C74D3.html" description="If multiple keyboard languages are available on [generic phone name], you can choose which languages to enable in the onscreen keyboard." keywords="Keyboard, multi-language keyboard" />
+</article>
+<article title="Entering text with word prediction" icon="" ext_ref="GUID-0BA90FFE-2D46-48C9-BA3A-0CCA60B90297.html" description="Word prediction is enabled by default, and word suggestions are displayed as you type." subject="keyboard" keywords="Keyboard, predictive text, Word prediction, auto-correct, autocorrect">
+<subarticle title="Setting a second language for word prediction" icon="" ext_ref="GUID-8E3ACEEA-5680-408D-8150-D013286E23B3.html" description="You can set the word prediction to be bilingual." keywords="Word prediction, bilingual prediction" />
+<subarticle title="Adding words and phrases to the word prediction dictionary" icon="" ext_ref="GUID-F331458E-F2D0-41AE-86D4-DBA24148432D.html" description="Add frequently-used names, acronyms, and even phrases to the word prediction dictionary to easily find them in the suggestion list." keywords="Keyboard, dictionary, shortcuts" />
+<subarticle title="Editing or deleting words and phrases in the word prediction dictionary" icon="" ext_ref="GUID-3DB171A1-A670-466E-A1D3-78444668D246.html" />
+</article>
+<article title="Using the Trace keyboard" icon="" ext_ref="GUID-BC0C097B-684E-4522-9538-C6B3C53CF2AE.html" description="Instead of tapping the keys on the onscreen keyboard, you can &quot;trace&quot; to type words." coverage="topic_tag-keyboard-trace_input" subject="keyboard" />
+<article title="Entering text by speaking" icon="" ext_ref="GUID-EEB9FD49-248F-4F92-9D39-A9C0FF1986F0.html" description="Try speaking the words to enter them." subject="keyboard" keywords="Keyboard, entering text by speaking, speech recognition, Voice input, voice, search" />
+</section>
+<section title="Battery">
+<article title="Checking battery usage" icon="" ext_ref="GUID-B4D7EBC2-8C79-4A24-967B-70E925268064.html" description="See a ranking list of apps that are using the battery." subject="power" keywords="Battery, checking usage, Power, checking battery usage" />
+<article title="Checking battery history" icon="" ext_ref="GUID-410966C0-1E0E-42E6-8AB7-D192FEF8577A.html" description="Check how long you&#039;ve been using [generic phone name] since the last charge." subject="power" />
+<article title="Optimizing battery life with power saver mode" icon="" ext_ref="GUID-1942DA75-36E1-408A-847D-C8F204F66799.html" description="Turning power saver mode on helps to increase battery life." subject="power" />
+<article title="Getting the battery to last longer" icon="" ext_ref="GUID-EAE718BE-FBD5-4E26-962D-725A16F7FE7C.html" description="How long the battery can last before it needs recharging depends on how you use [generic phone name]." coverage="topic_tag-power-maximize_battery_life" subject="power" keywords="Battery, saving battery power, Power, saving power, Low battery, extend, improve, increase, battery" />
+</section>
+</category>
+<category title="Camera and Gallery" icon="icon_launcher_camera.png">
+<section title="Camera">
+<article title="Camera basics" icon="" ext_ref="GUID-6FFD521F-CF3F-4DBF-9D1D-74405C61D339.html" description="Take great photos and videos with the camera, and make them more memorable by applying a variety of effects and scenes." coverage="topic_tag-camera-basics" subject="camera" keywords="Camera, basics, standby, sightsee">
+<subarticle title="Zooming" icon="" ext_ref="GUID-D7A42B8E-E105-497F-AF57-76E6D93A21F1.html" keywords="Camera, zooming" />
+<subarticle title="Switching between the front and main camera" icon="" ext_ref="GUID-0C1C24D9-359A-4793-9553-31BC939F03C5.html" description="On the Viewfinder screen, do any of the following:" keywords="Camera, front camera, front facing camera" />
+<subarticle title="Choosing an effect" icon="" ext_ref="GUID-E80B9111-D840-4020-84AB-976A55FF08C8.html" description="Use the available camera effects to make your photos look like they’ve been taken through special lenses or filters. You can also apply certain effects to videos." coverage="topic_tag-camera-add_effects" keywords="Camera, effects" />
+<subarticle title="Setting the video resolution" icon="" ext_ref="GUID-60397629-9CE3-440C-B430-1F51BE4BAB47.html" keywords="Camera, video resolution" />
+<subarticle title="Choosing a flash mode" icon="" ext_ref="GUID-9ACDD59F-67B9-4E86-A8EE-109095CF148A.html" keywords="Camera, flash" />
+</article>
+<article title="Taking a photo" icon="" ext_ref="GUID-A6F64669-AC10-4522-BDF7-F6D9D6D04B23.html" coverage="topic_tag-camera-take_photo" subject="camera" keywords="Camera, basics, taking a photo" />
+<article title="Recording video" icon="" ext_ref="GUID-B9D6EED4-1AC3-4086-B115-E2BE559372EF.html" coverage="topic_tag-camera-record_video" subject="camera" keywords="Camera, basics, recording a video, Videos, recording">
+<subarticle title="Taking a photo while recording a video (VideoPic)" icon="" ext_ref="GUID-B30AE027-8D39-4868-8153-CD6D2952048A.html" coverage="topic_tag-camera-take_photo_while_record_video" keywords="Videos, taking photo while recording, VideoPic, Camera, video, pic, capture" />
+<subarticle title="Turning off auto focus" icon="" ext_ref="GUID-06744116-53DD-4A08-A694-E9C53BC3D9A3.html" />
+</article>
+<article title="Taking continuous camera shots" icon="" ext_ref="GUID-C088A3C2-22CB-4B3E-9116-C1D130C5B2AE.html" description="Do you want to take photos of moving subjects? Whether it’s your kid&#039;s football game or a car race, you can capture the action." coverage="topic_tag-camera-continuous_shots" subject="camera" keywords="Camera, continuous shooting, Continuous shooting, Burst mode, burst, action" />
+<article title="Camera scenes" icon="" ext_ref="GUID-4E1C1DC2-C61B-45A2-B926-94C62CCA270C.html" description="A scene is a collection of settings to suit the lighting and environment." subject="camera" keywords="Camera, scenes, Scenes, in Camera app, automatic, scene, detection" />
+<article title="Improving portrait shots" icon="" ext_ref="GUID-10C530AB-681F-40FF-85A8-19CC3B79D11B.html" description="If you&#039;d like your family or friends to look their best in your photos, make sure to use the portrait scene." subject="camera" />
+<article title="Taking a self portrait" icon="" ext_ref="GUID-D3091D0A-198E-48B7-AFE9-00F76C7AC17F.html" description="No one around to take your photo?" coverage="topic_tag-camera-front_facing" subject="camera" keywords="Camera, self portrait, front camera, selfie" />
+<article title="Taking HTC Zoe photos" icon="" ext_ref="GUID-F1F90B9E-1BEC-4115-92E5-206877E9FB9E.html" description="With HTC Zoe, record memories as a &quot;living album&quot; of up to 20 photos and a 3-second video." coverage="topic_tag-camera-capture_previous_moments" subject="camera" keywords="Camera, HTC Zoe, zoe mode, three second video" />
+<article title="Taking a panoramic photo" icon="" ext_ref="GUID-5E579C94-1F4F-4F75-9B2B-D522A6DC8B7C.html" description="Whether it’s the Golden Gate Bridge or the Eiffel Tower, you can capture anything wide or tall in a single photo." coverage="topic_tag-camera-panoramic" subject="camera" keywords="Panorama, Panoramic photo, Sweep panorama, Camera, sweep panorama, panorama" />
+<article title="Using HDR" icon="" ext_ref="GUID-6115E30C-9614-45FE-B67C-0B7C99714094.html" description="When shooting portraits against a bright background, use the HDR (High Dynamic Range) scene to capture your subjects clearly." coverage="topic_tag-camera-hdr" subject="camera" keywords="HDR, Camera, photo hdr, video hdr" />
+<article title="Recording videos in slow motion" icon="" ext_ref="GUID-31C10CDB-833B-4987-94B8-B49F79A9507C.html" description="Relive high speed action bit by bit and add a touch of suspense to your videos." coverage="topic_tag-camera-slow_motion" subject="camera" keywords="Slow motion video, Camera, slow motion, slowmo, slow, video" />
+</section>
+<section title="Gallery">
+<article title="Viewing photos and videos in Gallery" icon="" ext_ref="GUID-67D68187-DE06-4200-884B-DD05FBF04C7E.html" description="Gallery lets you view all the photos and videos on [generic phone name] or online albums." coverage="topic_tag-gallery-view_photos" subject="gallery" keywords="Photos, viewing photos and videos, Geotag, Gallery, picture, pics, event, location, highlight">
+<subarticle title="Viewing photos and videos by event" icon="" ext_ref="GUID-1D349710-1747-4172-989E-0C320F9BE23D.html" description="View photos and videos based on when they were taken." keywords="Gallery, Gallery, viewing photos and videos by event, Photos" />
+<subarticle title="Viewing photos by location" icon="" ext_ref="GUID-C33949DE-DA76-442E-A2B2-7859968FFD71.html" description="Using the Map view, you can view photos according to location." keywords="Gallery, viewing photos by location, Photos, location" />
+<subarticle title="Watching and trimming a video" icon="" ext_ref="GUID-9C61907A-160E-450D-A0EE-BF5F77D997C1.html" description="You can capture a snapshot while watching a video, trim the video to remove unwanted scenes, and more." coverage="topic_tag-gallery-watch_video" keywords="Gallery, watching videos, video trimming, Videos, watching, editing" />
+<subarticle title="Changing the video playback speed" icon="" ext_ref="GUID-CBD68BED-6DBB-4B85-9A87-F7056CCB74B7.html" description="You can vary the playback speed of selected sections of a slow motion video." coverage="topic_tag-gallery-change_playback_speed" keywords="Videos, playback speed" />
+</article>
+<article title="Viewing photo highlights" icon="" ext_ref="GUID-E396C945-FD25-448F-AD02-70E6F9ACF54D.html" description="Gallery automatically groups all your most viewed or shared photos (your highlights) in one album." subject="gallery" />
+<article title="Viewing the highlights of an event" icon="" ext_ref="GUID-E45C1B9C-84C4-451A-806B-01BC3D712753.html" description="Gallery automatically selects the highlights of an event no matter whether they’re HTC Zoe photos or still photos, and displays them in a highlight video that lasts about half a minute." coverage="topic_tag-gallery-view_event_highlights" subject="gallery" keywords="Slideshow, highlight video, Gallery, Video Highlights, highlight, video, slideshow, editing" />
+<article title="Organizing your photos and videos" icon="" ext_ref="GUID-8CE18D8E-F1FE-4F81-96CA-3143A836E15F.html" subject="gallery" keywords="Photos, organizing">
+<subarticle title="Showing or hiding albums" icon="" ext_ref="GUID-0C36496E-D5C1-48B0-ABC9-DE283DEB6B19.html" description="You can choose to show or hide albums." />
+<subarticle title="Copying or moving a photo or video to another album" icon="" ext_ref="GUID-D190EDE3-A7C6-46E6-BBA7-F0C265D988D9.html" />
+<subarticle title="Renaming an album" icon="" ext_ref="GUID-D7148858-BAAB-49BE-BABB-38D0CA215743.html" description="If you have created albums to organize photos, you can rename these albums." />
+<subarticle title="Working with event photos" icon="" ext_ref="GUID-AECDA564-6263-416F-B1E4-24F9135BB96D.html" description="Photos and videos that you captured using [generic phone name] are grouped together in Events view according to the date they were taken." />
+</article>
+<article title="Viewing photos in your social networks" icon="" ext_ref="GUID-FE1C79BA-5C95-4A8E-A563-11655CC80B6F.html" description="Right in the Gallery app, check what you and your friends have uploaded to your social networks or photo sharing sites." coverage="topic_tag-gallery-view_social_network_photos" subject="gallery" keywords="Gallery, photos in social networks, Photos, social networks">
+<subarticle title="Adding an online service" icon="" ext_ref="GUID-E7855B42-9B57-472A-BF84-048058625AB3.html" />
+</article>
+<article title="Editing your photos" icon="" ext_ref="GUID-6CE2F7DA-F873-4CEE-B074-BF247BD4EC7D.html" description="Gallery has an array of editing tools that let you crop, rotate, apply and create photo effects, and much more to your photos." coverage="topic_tag-gallery-edit_photo" subject="gallery" keywords="Gallery, editing photos, crop, rotate, effects">
+<subarticle title="Adding custom photo effects" icon="" ext_ref="GUID-351CCBEA-9D27-4C28-B7B8-3E8E26FD623A.html" description="You can make your own photo effects in Gallery." coverage="topic_tag-gallery-custom_effect" keywords="Gallery, custom effects, Photos, filters" />
+</article>
+<article title="Creating an action sequence shot" icon="" ext_ref="GUID-1753871D-95F2-44FF-9437-8E42D160C3C5.html" description="Create a sequence shot to stitch a series of actions in one photo." coverage="topic_tag-gallery-combine_action_shots" subject="gallery" keywords="Gallery, creating sequence shots, time break" />
+<article title="Editing a group shot" icon="" ext_ref="GUID-8E84B715-520D-45E6-B66D-C438AFC8E90B.html" description="Retouch a group shot so everyone looks their best in the photo." coverage="topic_tag-gallery-pick_best_face" subject="gallery" keywords="Gallery, editing group shots" />
+<article title="Removing unwanted objects in a photo" icon="" ext_ref="GUID-E018F627-6843-47C2-8FA3-835FCC50FA39.html" description="Retouch the photo to remove unwanted people or objects." coverage="topic_tag-gallery-remove_object" subject="gallery" keywords="Gallery, removing objects in photo, object removal" />
+<article title="Sending your photos and videos" icon="" ext_ref="GUID-4A6C7F8E-1EAD-434C-A3FA-8DC0F7A7B0C8.html" description="Send photos and videos to your computer or to another device via email, MMS, or Bluetooth." subject="gallery" keywords="Gallery, sharing photos, Photos, Web, Bluetooth, MMS, mail" />
+<article title="Sharing your photos on social networks" icon="" ext_ref="GUID-3F611491-976A-46E5-AB5D-83DD92289930.html" description="Use the Gallery app to share photos straight to your social networks." coverage="topic_tag-gallery-share_photos_videos_on_web" subject="gallery" keywords="Gallery, sharing photos, Photos, Web, Bluetooth, MMS, mail" />
+<article title="Sharing memories through HTC Share" icon="" ext_ref="GUID-B6A45229-E9AA-437C-9A08-74F3B5C20E22.html" description="It&#039;s easy to create a collage of your best photos and share them with friends and family with HTC Share." coverage="topic_tag-gallery-collage" subject="gallery" keywords="Gallery, HTC Share, sharing photos, Photos, collage, collection, montage, Web, Bluetooth, MMS, mail" />
+</section>
+</category>
+<category title="Personalizing" icon="icon_launcher_personalize.png">
+<article title="Making [generic phone name] truly yours" icon="" ext_ref="GUID-E0978398-9352-4F88-8694-C5F66F57F7D3.html" description="Make [generic phone name] look and sound just the way you want it." coverage="topic_tag-personalizing-intro" subject="personalizing" />
+<article title="Changing your wallpaper" icon="" ext_ref="GUID-5391C3A3-336D-4879-97CC-192F5FE3CD21.html" description="Pick your favorite photo as your Home wallpaper." subject="home_screen" keywords="Wallpaper, changing, Home screen, wallpaper" />
+<article title="Adding a widget to your Home screen" icon="" ext_ref="GUID-A052FA7B-BF71-46E8-A34D-3D8178112D94.html" description="Widgets make at-a-glance important information and media content easily available. Choose from a selection of widgets and add the most useful ones to your Home screen." subject="home_screen" keywords="Widgets, adding, Home screen, adding widgets">
+<subarticle title="Changing the settings of a widget" icon="" ext_ref="GUID-D63CB1B9-A9BE-4CE1-B5E3-13510651754B.html" description="You can modify basic settings of some widgets (for example, the People widget) from the Home screen." keywords="Widgets, changing settings" />
+<subarticle title="Resizing a widget" icon="" ext_ref="GUID-284D7D67-3610-4722-B30D-89475E699C98.html" description="Some widgets can be resized after you&#039;ve added them to your Home screen." keywords="Widgets, resizing" />
+</article>
+<article title="Adding apps and other shortcuts on your Home screen" icon="" ext_ref="GUID-400402F8-998A-4BAA-ACBB-ED488BA0FBED.html" description="Place apps you often use on your Home screen." coverage="topic_tag-home_screen-add_icons_shortcuts" subject="home_screen" keywords="Apps, on Home screen, icons on Home screen, Home screen, shortcuts, apps" />
+<article title="Rearranging or removing widgets and icons on your Home screen" icon="" ext_ref="GUID-71D76371-9D82-404A-8689-8E1CB59F1820.html" coverage="topic_tag-home_screen-rearrange_remove_widgets" subject="home_screen" keywords="Home screen, rearranging items">
+<subarticle title="Moving a widget or icon" icon="" ext_ref="GUID-ABBDBF74-3757-427E-8CF6-EAFAE3731007.html" description="You can easily move a widget or icon from one Home screen panel to another." />
+<subarticle title="Removing a widget or icon" icon="" ext_ref="GUID-6342B8AF-0538-4D56-BC4C-28C79E641E5F.html" keywords="Widgets, removing" />
+</article>
+<article title="Personalizing the launch bar" icon="" ext_ref="GUID-95F502C6-4985-4667-9E80-BAF1865A5289.html" description="You can replace the apps on the launch bar with other apps you often use." subject="home_screen" keywords="Home screen, launch bar" />
+<article title="Grouping apps into a folder" icon="" ext_ref="GUID-6094B56B-9560-418E-9A49-F935DEA2FE5E.html" description="You can group apps into a folder in the All apps view, and then move the folder to the launch bar or the Home screen." subject="home_screen" keywords="Folder, grouping apps, Apps, grouping into a folder, Home screen, folder">
+<subarticle title="Renaming a folder" icon="" ext_ref="GUID-CD025487-45CB-431C-936C-1E16732C8DC2.html" keywords="Folder, renaming" />
+<subarticle title="Removing items from a folder" icon="" ext_ref="GUID-B774B953-8096-4A8A-8AD1-172706D99825.html" keywords="Folder, removing items" />
+</article>
+<article title="Adding a Home screen panel" icon="" ext_ref="GUID-EBC8C7BF-878E-481C-BAFF-02E9536DBE0D.html" description="Add a Home screen if you have more widgets, apps, and shortcuts that you want to access right away." subject="home_screen" />
+<article title="Changing your ringtone, notifications, and sounds" icon="" ext_ref="GUID-F599859C-1353-4D09-826E-813EFAC0B514.html" subject="sounds" keywords="Sound, ringtone, notifications, and sounds" />
+<article title="Rearranging application tabs" icon="" ext_ref="GUID-F93C503D-C37C-46A6-A7F5-0C459C6DA4AD.html" description="You can add to or rearrange the tabs in some apps to make it easy to get to the most important information." coverage="topic_tag-personalizing-rearrange_app_tabs" subject="personalizing" />
+<article title="Customizing the lock screen style" icon="" ext_ref="GUID-B2670E49-E4A4-4156-A805-8328A5DAEDA2.html" description="Choose from our selection of lock screens." coverage="topic_tag-personalizing-customize_lock_screen" subject="personalizing" keywords="Lock screen, shortcuts, lock screen style, Shortcuts, Lockscreen" />
+<article title="Hiding missed calls and messages on the lock screen" icon="" ext_ref="GUID-7521822A-DB5C-4061-AE1F-526861CF5481.html" description="You&#039;ll see missed calls and messages on the lock screen." subject="settings" />
+<article title="Securing [generic phone name] with a personal touch" icon="" ext_ref="GUID-7BE77841-6148-419B-840D-51D9A1B55E73.html" description="Protect your personal information and prevent others from using [generic phone name] without your permission by setting up face unlock." subject="settings" keywords="Face unlock, face, recognition" />
+</category>
+<category title="Phone calls" icon="icon_launcher_phone.png">
+<article title="Making a call with Smart dial" icon="" ext_ref="GUID-B22E2C9A-0243-4D46-8966-03A02684B6C6.html" description="Smart dial searches and calls a stored/synced contact or a number from your call history." coverage="topic_tag-phone-make_a_call" subject="phone" keywords="Making calls, calling, Phone calls, Smart Dial">
+<subarticle title="Changing the Phone dialer layout" icon="" ext_ref="GUID-2EF73B96-9730-49DD-ABA1-D411F6E0728C.html" description="Switch between the Smart dial keypad to find contacts with just a few taps and a full screen keypad that gives you more room to enter phone numbers." coverage="topic_tag-phone-change_layout" />
+</article>
+<article title="Returning a missed call" icon="" ext_ref="GUID-DCE67DA5-8AFA-4AEA-9B07-BC26A0809FF0.html" description="You&#039;ll see the missed call icon in the status bar when you miss a call." subject="phone" keywords="Phone calls, missed calls" />
+<article title="Using Speed dial" icon="" ext_ref="GUID-74FF735E-6D1F-4863-A461-B9E463E97BEF.html" description="Use Speed dial to call a phone number with a single tap." subject="phone" keywords="Speed dial, Phone calls, speed dial">
+<subarticle title="Assigning a speed dial key" icon="" ext_ref="GUID-F93BB068-5D21-46F9-8032-68B9CA51BF7C.html" />
+</article>
+<article title="Calling a phone number in a text message" icon="" ext_ref="GUID-CE4F129D-92C0-4D53-9611-89630DFCC7E5.html" subject="phone" keywords="Making calls, calling a number in a message, Phone calls" />
+<article title="Calling a phone number in an email" icon="" ext_ref="GUID-A8D048EA-6C27-4AD6-B0A2-C0347457D950.html" subject="phone" keywords="Making calls, calling a number in an email, Phone calls" />
+<article title="Calling a phone number in a Calendar event" icon="" ext_ref="GUID-D58B9D65-FBA5-41F9-8B88-D5AC4A243D95.html" coverage="topic_tag-phone-call_number_in_calendar_event" subject="phone" keywords="Making calls, calling a number in a Calendar event, Phone calls" />
+<article title="Making an emergency call" icon="" ext_ref="GUID-A64B13E1-4B70-46AE-83CC-2C62AB53B2E9.html" description="In some regions, you can make emergency calls from [generic phone name] even if you don’t have a SIM card installed or your SIM card has been blocked." subject="phone" keywords="Phone calls, emergency call" />
+<article title="Receiving calls" icon="" ext_ref="GUID-1EF638E0-A804-4C55-AFF9-B2A5C82B9885.html" description="When you receive a phone call from a contact, the Incoming call screen appears." subject="phone" keywords="Phone calls, receiving calls">
+<subarticle title="Answering or rejecting a call" icon="" ext_ref="GUID-09EA810A-1379-4455-B294-BE333A0380FA.html" keywords="Lock screen, answering a call, rejecting a call" />
+<subarticle title="Muting the ringing sound without rejecting the call" icon="" ext_ref="GUID-A3172915-663D-4CA0-8349-11D899E94F88.html" />
+<subarticle title="Look who&#039;s calling" icon="" ext_ref="GUID-92F6B9D8-C4A9-4835-B614-07D9EE4F95E9.html" description="Every time you make a call or your friend gives you a ring, you get to see your friend’s latest social network status update right on the call screen." />
+<subarticle title="Viewing a task reminder while on a call" icon="" ext_ref="GUID-87B8F955-0B93-42DE-BB6E-95786F61F951.html" description="If you associate a task to a contact, you&#039;ll see a task reminder on the call screen when you&#039;re on a call with that friend." />
+</article>
+<article title="What can I do during a call?" icon="" ext_ref="GUID-B9900CE3-9CEB-4ED3-8E0C-510DEC3E2621.html" subject="phone">
+<subarticle title="Putting a call on hold" icon="" ext_ref="GUID-8F90E8BD-D5B4-43A0-9420-43416E84F54A.html" keywords="Phone calls, putting a call on hold" />
+<subarticle title="Switching between calls" icon="" ext_ref="GUID-D4597F00-0C5C-4B29-91B0-09DA4127AC09.html" description="If you’re already in a call and you accept another call, you can switch between the two calls." />
+<subarticle title="Turning the speakerphone on or off during a call" icon="" ext_ref="GUID-B864C1E8-2793-4B40-9F32-9CB19FCA6574.html" keywords="Speakerphone, Phone calls, speakerphone" />
+<subarticle title="Muting the microphone during a call" icon="" ext_ref="GUID-89CA3CAD-61FB-4176-9196-621D3D071B3A.html" keywords="Phone calls, muting the microphone" />
+<subarticle title="Ending a call" icon="" ext_ref="GUID-9D1D1662-3E04-4D92-AEF5-F72A1B725CB5.html" />
+</article>
+<article title="Setting up a conference call" icon="" ext_ref="GUID-3A09BFD6-0A2E-4D11-8684-399B8F6AA1D5.html" subject="phone" keywords="Conference call, Phone calls, conference call" />
+<article title="Checking calls in the Call History" icon="" ext_ref="GUID-908B4BF1-615D-4C75-B778-5B1272AE0083.html" description="Use Call History to check missed calls, your dialed numbers, and received calls." subject="phone" keywords="Call history, Phone calls, call history">
+<subarticle title="Adding a new phone number to your contacts from Call History" icon="" ext_ref="GUID-5D83E25F-DC9D-4CF8-9160-71940F97FFF0.html" />
+<subarticle title="Clearing the Call History list" icon="" ext_ref="GUID-7DBB4F42-06F1-488A-8DDB-A82C323B9E17.html" />
+<subarticle title="Blocking a caller" icon="" ext_ref="GUID-9E61E0C7-0729-40AE-9C49-ECA424AF5270.html" description="When you block a phone number or a contact, all calls from the phone number or contact will be declined automatically." keywords="Phone calls, blocking a call" />
+</article>
+<article title="Changing ringtone settings" icon="" ext_ref="GUID-1D66372A-8EDD-4FEE-8424-3A2F7B5D7F28.html" subject="phone">
+<subarticle title="Switching between silent, vibrate, and normal modes" icon="" ext_ref="GUID-6BFF6369-AFE3-4BC7-9EFE-4423B18D0989.html" keywords="Sound, switching profiles" />
+<subarticle title="Lowering the ring volume automatically" icon="" ext_ref="GUID-B4F9D1B9-A17E-46B7-BCF3-24B74F389352.html" description="[generic phone name] has a quiet ring feature that automatically lowers the ring volume when you move it." keywords="Sound, lowering ring volume automatically, Ring volume, loud" />
+<subarticle title="Making [generic phone name] ring louder in your pocket or bag" icon="" ext_ref="GUID-C5996363-3CC1-4911-A4F4-FB6FEC51DEF9.html" description="To help avoid missing incoming calls when [generic phone name] is in your pocket or bag, the pocket mode feature gradually increases the ring volume and vibrates when you receive a call." keywords="Sound, Pocket mode, Ring volume, making your phone ring louder, Pocket mode" />
+</article>
+<article title="Home dialing" icon="" ext_ref="GUID-113FB673-3669-4F4C-B941-63452E491276.html" description="When you&#039;re on a trip abroad, it&#039;s easy to dial friends and family from home." subject="phone">
+<subarticle title="Changing the default country code for Home dialing" icon="" ext_ref="GUID-F3000893-7902-4213-BCDD-1F44787A2FCD.html" />
+<subarticle title="Turning off Home dialing" icon="" ext_ref="GUID-954F30AD-B12C-4834-98DB-A4D0A8B2E181.html" description="If you prefer to manually enter complete phone numbers to call while roaming, you can turn off Home dialing." />
+</article>
+</category>
+<category title="Messages" icon="icon_launcher_messages.png">
+<article title="Sending a text message (SMS)" icon="" ext_ref="GUID-F66D4C3C-3577-46C0-90DF-140AA847CE8E.html" subject="messages" keywords="Messages, draft message, sending, Text message" />
+<article title="Sending a multimedia message (MMS)" icon="" ext_ref="GUID-8F3220D0-5B92-41E4-84D4-F5F4E1881615.html" subject="messages" keywords="Messages, draft message, sending, Multimedia message, attachment, sending">
+<subarticle title="Creating a slideshow" icon="" ext_ref="GUID-52E9AFF4-0097-4719-AA31-4C708CFC28C9.html" keywords="Slideshow, MMS" />
+<subarticle title="Can&#039;t find your contacts&#039; email addresses in Messages?" icon="" ext_ref="GUID-19FE86A1-0617-470C-A899-90DE5965D35F.html" />
+</article>
+<article title="Sending a group message" icon="" ext_ref="GUID-372ADADC-412F-44E3-8C48-053EDFE5597F.html" description="Group messaging makes it easy to send a message to multiple contacts all at once." subject="messages" keywords="MMS, Multimedia message, group MMS, SMS, Messages, Group messaging, group SMS">
+<subarticle title="Top questions on group MMS" icon="" ext_ref="GUID-2DDF29F8-48DD-4D5E-988B-6EA4328AF99E.html" />
+</article>
+<article title="Resuming a draft message" icon="" ext_ref="GUID-3EC3CA18-A15D-4E7B-9AD2-C454A6905E34.html" subject="messages" keywords="Messages, draft message" />
+<article title="Replying to a message" icon="" ext_ref="GUID-B7ABAAEF-F328-4B15-BF56-9D8EC6244150.html" subject="messages" keywords="Messages, replying">
+<subarticle title="Replying to a contact&#039;s other phone number" icon="" ext_ref="GUID-8B45A2B4-E453-4955-AD93-4C2EBFBBFC27.html" description="When a contact has multiple phone numbers stored on [generic phone name], you can select which phone number to reply to." />
+</article>
+<article title="Saving a text message in the Tasks app" icon="" ext_ref="GUID-5FB70E91-1C96-4203-8D0F-72AC5B6FB835.html" description="Save a text message in your Tasks list so you can remind yourself when to reply." subject="messages" keywords="Messages, Message, saving as task" />
+<article title="Forwarding a message" icon="" ext_ref="GUID-E0EBAF90-D718-4D2B-95CF-A8F44D754C5C.html" subject="messages" keywords="Messages, forwarding" />
+<article title="Viewing and saving an attachment from a multimedia message" icon="" ext_ref="GUID-DE87FCC4-71C2-4A88-80AD-78552E7AC5FC.html" subject="messages" />
+<article title="Moving messages to the secure box" icon="" ext_ref="GUID-EFE61306-D44D-4851-A432-7DEB7C6AD554.html" description="You can move private messages to the secure box. You will need to enter a password to read these messages." coverage="topic_tag-messages-secure_box" subject="messages" keywords="Messages, Message, secure box, secret" />
+<article title="Blocking unwanted messages" icon="" ext_ref="GUID-C49B52F6-D491-41AB-91A2-B4E02117BFB9.html" description="Declutter your Messages screen by moving spam messages from contacts to the block box. If you have blocked a contact, that contact&#039;s messages will also be in the block box." coverage="topic_tag-messages-block_list" subject="messages" keywords="Messages, block box, spam" />
+<article title="WAP push messages" icon="" ext_ref="GUID-9671C174-154D-41AE-A7B7-E281B8B851FC.html" description="WAP push messages contain a web link." subject="messages">
+<subarticle title="Opening and reading a new WAP push message" icon="" ext_ref="GUID-25D2B981-EA8A-454F-BE0C-ABA762C5893F.html" />
+<subarticle title="Viewing all your WAP push messages" icon="" ext_ref="GUID-6F65763A-7F16-4D28-A6ED-E2411371DDD9.html" />
+</article>
+<article title="Copying a text message to your SIM card" icon="" ext_ref="GUID-10F61D66-1E34-4BC9-AD4F-7608D638F3BD.html" subject="messages" keywords="Messages, copying to the SIM card, SIM card, copying messages to" />
+<article title="Deleting messages and conversations" icon="" ext_ref="GUID-D9287BB9-7478-4488-AAE1-4954F3EED4F5.html" subject="messages" keywords="Messages, deleting a conversation">
+<subarticle title="How do I protect a message from being deleted?" icon="" ext_ref="GUID-FED56E63-EA48-4F33-AFE6-EBFD78F64426.html" description="You can lock a message so that it will not be deleted even if you delete the other messages in the conversation." keywords="Messages, locking" />
+</article>
+</category>
+<category title="Search and web browser" icon="icon_launcher_browser.png">
+<article title="Searching [generic phone name] and the Web" icon="" ext_ref="GUID-162C33DA-3AD0-47C1-ADFE-426121CDE364.html" description="You can search for information on [generic phone name] and on the Web by using Google Search." subject="google_search" keywords="Search, searching phone and Web">
+<subarticle title="Performing searches on the Web and [generic phone name]" icon="" ext_ref="GUID-601E95C9-ADCC-49FF-BEE0-09266671C8ED.html" />
+<subarticle title="Searching the Web with your voice" icon="" ext_ref="GUID-4C5B3551-D11A-47B1-9F18-426ADFBACBFA.html" description="Use Google Voice Search to find information on the Web just by speaking to [generic phone name]." keywords="Search, voice search, Voice search, Google Voice Search" />
+<subarticle title="Setting search options" icon="" ext_ref="GUID-120A3EEE-49A6-4768-AB2C-122EE0F08E13.html" />
+</article>
+<article title="Getting instant information with Google Now" icon="" ext_ref="GUID-C614DAFD-C8D2-41CD-940A-6280FD97FFAA.html" description="Google Now delivers quick and up-to-date information that matters to you—all without the search." subject="google_now" keywords="Google Now">
+<subarticle title="Setting up Google Now" icon="" ext_ref="GUID-C8367A2E-3B6E-4E7E-9583-653F6DE84CEF.html" keywords="Google Now, setting up" />
+<subarticle title="Changing card settings" icon="" ext_ref="GUID-5CA313C5-9BEA-4E02-8476-C0041A43630A.html" description="You can easily customize the settings of Google Now cards to suit your information needs." />
+<subarticle title="Refreshing Google Now" icon="" ext_ref="GUID-BBECAA46-955E-4A3C-95D0-573EB3536B3D.html" description="Refresh Google Now to update the information cards or show relevant cards for information that you&#039;ve just added on [generic phone name], like an upcoming event in Calendar." />
+<subarticle title="Turning off Google Now" icon="" ext_ref="GUID-1883DB99-016F-439F-8691-A73F0E94F34A.html" keywords="Google Now, turning off" />
+</article>
+<article title="Browsing the Web" icon="" ext_ref="GUID-0CAA1107-789A-4888-9021-AB39668F2EF4.html" subject="browser" keywords="Browser, using, Internet, browsing, surf, view, browse">
+<subarticle title="Switching to Read mode" icon="" ext_ref="GUID-1B2D0636-B73E-4B76-A025-065D563C5C82.html" description="Read mode removes menus, banners, and backgrounds from a webpage." keywords="Read mode, ad-free" />
+<subarticle title="Maximizing your browsing space" icon="" ext_ref="GUID-24BFF164-1B4D-4C00-9F19-A5BE56DB85E5.html" keywords="Browser, viewing desktop version" />
+<subarticle title="Using browser tabs" icon="" ext_ref="GUID-893A5E6D-462D-450D-AC57-D6A58DC662A9.html" description="Open multiple browser tabs and quickly switch from one webpage to another." keywords="Browser, tabs" />
+<subarticle title="Saving web content for later" icon="" ext_ref="GUID-D1874AF7-1FC7-4CC1-B790-06E946FE7DB9.html" description="Save webpages to read later, even without an Internet connection." coverage="topic_tag-browser-save_content" keywords="Reading list, Watch list, Browser, Reading list or Watch list, off-line, offline" />
+<subarticle title="Setting browser options" icon="" ext_ref="GUID-2FBA9ADA-9BA0-4C43-8B5D-5AA55977624A.html" description="Set display, privacy, and security options when using the web browser." />
+</article>
+<article title="Bookmarking a webpage" icon="" ext_ref="GUID-9D7FC24D-13F4-4D3C-A945-E97851B1F67D.html" description="Add your favorite webpages as bookmarks so you can access them quickly." subject="browser" keywords="Browser, bookmarks, Folder, grouping bookmarks">
+<subarticle title="Not seeing your bookmark?" icon="" ext_ref="GUID-309F92B7-E514-4090-8C46-FF44E273FE69.html" />
+<subarticle title="Syncing your bookmarks with Google Chrome" icon="" ext_ref="GUID-869E27E6-ADA4-4A74-977B-E7BBD20581DE.html" description="Create bookmarks from your computer&#039;s Google Chrome browser and sync them on [generic phone name]." keywords="Browser, syncing with Google Chrome" />
+</article>
+<article title="Using your browsing history" icon="" ext_ref="GUID-B2F06E2F-562C-4094-847B-4B885A6C1AA7.html" description="[generic phone name] keeps a record of webpages you&#039;ve visited." subject="browser" keywords="Browser, history" />
+<article title="Clearing your browsing history" icon="" ext_ref="GUID-4379F7F4-C6C9-4E65-8028-FB77E223D1F9.html" subject="browser">
+<subarticle title="Private browsing" icon="" ext_ref="GUID-214AEC0E-A689-4BF1-916B-19D4E46A0E25.html" description="You can use incognito tabs to browse the Web with more privacy." coverage="topic_tag-browser-browse_privately" keywords="Browser, incognito tab, history, Incognito mode, cookie, delete" />
+</article>
+</category>
+<category title="Entertainment" icon="icon_launcher_media_share.png">
+<section title="Music">
+<article title="Listening to music" icon="" ext_ref="GUID-269DF13D-3EB6-4539-9D6F-A846A025A202.html" description="Enjoy your favorite songs on [generic phone name] using the Music app." subject="music" keywords="Music, listening, playing music from the Lock screen">
+<subarticle title="Making your music sound better" icon="" ext_ref="GUID-D82C808B-7C7F-4E17-A43E-E681EE0277A3.html" description="Turn on Beats Audio for an enhanced sound experience." keywords="Beats Audio profile, Music, Beats Audio profile" />
+</article>
+<article title="Creating and working with playlists" icon="" ext_ref="GUID-D85797C8-86BA-4C9E-9515-A1AC44C986FB.html" description="Personalize your music experience by creating music playlists." coverage="topic_tag-music-create_playlist" subject="music" keywords="Music, playlist, play list">
+<subarticle title="Playing the songs in a playlist" icon="" ext_ref="GUID-93A880E6-952D-4C69-B428-C6668EC7FC7E.html" />
+<subarticle title="Deleting playlists" icon="" ext_ref="GUID-09522B53-6010-4071-9012-107BFE45AF63.html" />
+</article>
+<article title="Adding a song to the queue" icon="" ext_ref="GUID-8CB066C5-28B1-4A67-B206-E5612C3B315C.html" description="Add a song or an album to the queue so it plays when the current playlist has finished playing." subject="music" keywords="Music, adding a song to a queue, list" />
+<article title="Updating album covers and artist photos" icon="" ext_ref="GUID-97FAB2D2-BBBA-482D-9F10-2C0A69FD720E.html" coverage="topic_tag-music-artwork" subject="music" keywords="Music, album covers, artist photos" />
+<article title="Setting a song as a ringtone" icon="" ext_ref="GUID-D4916A4F-A0C1-4A1F-92CE-923688AB15F9.html" description="Pick a song from your Music library and set it as your ringtone or as ringtone for a favorite contact." coverage="topic_tag-music-set_song_as_ringtone" subject="music" keywords="Music, setting a song as ringtone, Ringtone, setting song as ringtone, ring, tone">
+<subarticle title="Trimming an MP3 ringtone" icon="" ext_ref="GUID-A7B74DE0-8322-422A-8705-0FF338A56C0D.html" keywords="Ringtone, editing, ring, tone" />
+</article>
+<article title="Searching for lyrics, music videos, and more" icon="" ext_ref="GUID-74FE2897-D832-46F9-B0E4-0BEB44B77F2C.html" subject="music" keywords="Lyrics, sing along, music visualization, karaoke, Music Channel">
+<subarticle title="Viewing song lyrics" icon="" ext_ref="GUID-5739A04E-9A45-426A-A3D0-65E3362A1D0F.html" description="[generic phone name] gives your music an extra kick with song lyrics and cool music visualizations." coverage="topic_tag-music-lyrics" keywords="Music, lyrics, sing along, music visualization, karaoke, Music Channel" />
+<subarticle title="Looking up related music info" icon="" ext_ref="GUID-CE39DABF-3366-4153-BFBF-61B0E0AF1F4C.html" description="SoundHound can find info about the song you&#039;re listening to." keywords="Music, SoundHound" />
+<subarticle title="Finding music videos on YouTube" icon="" ext_ref="GUID-E9BAD0E5-B660-42CB-91CF-09D9C30C7EB4.html" description="It&#039;s easy to find music videos of the song you’re listening to on YouTube." keywords="YouTube, finding videos of songs" />
+</article>
+</section>
+<section title="TV">
+<article title="Enjoying TV with [generic phone name]" icon="" ext_ref="GUID-19E9BD7B-B3EE-4A77-943C-B1369A7C3A1F.html" description="With an intelligent electronic program guide (EPG) and the HTC remote, the TV app gives you full control of your TV entertainment." coverage="topic_tag-htc_video_center-intro" subject="htc_video_center" keywords="Sense TV, about, TV">
+<subarticle title="Setting up the TV app" icon="" ext_ref="GUID-C9C23E7F-9BDD-47FE-87FC-23BB85A9C306.html" keywords="Electronic program guide, setting up, Sense TV, EPG" />
+<subarticle title="Using the EPG" icon="" ext_ref="GUID-772B4417-4F25-45AF-A2F5-65CFB93E5A9B.html" description="Use the TV app&#039;s EPG (electronic program guide) to check what&#039;s showing on your TV, view show details, or schedule TV reminders." keywords="Sense TV, electronic program guide (EPG), TV guide, EPG, program guide, channel guide, cable guide, interactive programming guide, TV menu" />
+<subarticle title="Scheduling TV programs" icon="" ext_ref="GUID-F0147850-B879-4A18-98B6-67DD9CC0EB13.html" description="Whether your favorite show is airing in the next hour or next weekend, you&#039;ll never miss it when you set a reminder in the TV app." coverage="topic_tag-htc_video_center-reminders" keywords="Sense TV, scheduling, schedule TV, calendar TV" />
+<subarticle title="Watching on demand videos" icon="" ext_ref="GUID-38476EDD-8FE4-48E5-A0F3-AF9F2700D23E.html" description="The TV app keeps you updated on current and upcoming on-demand movies and TV shows." keywords="Sense TV, checking on-demand video, on-demand, Hulu, Crackle, HTC Watch, VOD, MOD, video, movie" />
+</article>
+<article title="Setting up your remote control" icon="" ext_ref="GUID-659615F5-B9FC-4710-B2FB-D425BB011874.html" description="You can combine all of your remote controls into one with HTC remote." coverage="topic_tag-htc_video_center-ir" subject="htc_video_center" keywords="Electronic program guide, setting up, Remote control, TV, TV guide, EPG, program guide, channel guide, cable guide, interactive programming guide, TV menu, DVR, set top box, home theater">
+<subarticle title="Customizing the remote control buttons" icon="" ext_ref="GUID-DC2EAE44-901C-4B04-94E4-E1C09DE10715.html" description="You can change any button." />
+</article>
+<article title="Controlling your TV with HTC remote" icon="" ext_ref="GUID-959EE241-DB7C-4474-B701-0157767A7380.html" subject="htc_video_center">
+<subarticle title="Controlling your TV from the Notifications panel" icon="" ext_ref="GUID-7749ADEE-1AC3-4B1A-9F47-A2A3F534BDC1.html" description="You can easily use HTC remote to mute the TV and more." />
+</article>
+</section>
+<section title="HTC Watch">
+<article title="About HTC Watch" icon="" ext_ref="GUID-CC6A4B7F-C7E8-4983-9654-013EDBAC4E30.html" description="With our HTC Watch online video service, shop for your favorite movies or TV series and enjoy watching them." coverage="topic_tag-htc_watch-intro" subject="htc_watch" />
+<article title="Creating or signing in to your HTC Watch account" icon="" ext_ref="GUID-EA983FDC-E476-4970-BA90-112B4E087381.html" subject="htc_watch" keywords="HTC Watch, Videos, video service, video streaming" />
+<article title="Renting or purchasing a video" icon="" ext_ref="GUID-EDBB0C62-4597-463D-A954-1AB6FC12077B.html" subject="htc_watch" />
+<article title="Managing your downloads" icon="" ext_ref="GUID-C12C0376-0F66-4C42-9D85-D3B65E34E81A.html" description="Manage your downloads and see all of your purchases. You can also start watching a video as it&#039;s being downloaded." subject="htc_watch" />
+<article title="Changing settings" icon="" ext_ref="GUID-D1065585-A5D5-4CC0-B0FE-CF5CFBBF6296.html" subject="htc_watch" />
+<article title="Checking what&#039;s linked to your HTC Watch account" icon="" ext_ref="GUID-4EEC9A27-A747-46B8-A469-41B39A23CD73.html" description="You can check what HTC devices are linked to your HTC Watch account." subject="htc_watch" />
+<article title="Removing your HTC Watch account" icon="" ext_ref="GUID-78612878-3254-4311-8F30-1D0D28796C2B.html" subject="htc_watch" />
+<article title="Top questions on HTC Watch" icon="" ext_ref="GUID-9F13AA23-2D65-48A4-8821-CAA6D2FBC273.html" subject="meta_info">
+<subarticle title="Why am I asked to sign in again to my account?" icon="" ext_ref="GUID-456B3B73-0373-4DBD-981F-9BB1BC305C30.html" description="Whenever a time interval (about 20 minutes) has passed, you&#039;ll be asked again to sign in to your HTC Watch account before you can continue to rent or purchase videos or access some settings. This is a safety precaution to check your identity and to ensure that you acknowledge that it is your account." />
+<subarticle title="How long is the rental period of a video?" icon="" ext_ref="GUID-EEEF93DC-5E95-43BD-8D4D-B106505BE7DC.html" description="Depending on the studio&#039;s terms and the country where you downloaded the video, the rental period is either 24 or 48 hours, starting from the first viewing." />
+<subarticle title="Why won&#039;t HTC Watch allow me to remove a device and add a new one?" icon="" ext_ref="GUID-CEC193EC-4F84-40C2-9C0F-B4E3CCC22AC1.html" description="You can only remove an HTC device once every 120 days." />
+</article>
+</section>
+<section title="Wireless display">
+<article title="Sharing on a big screen" icon="" ext_ref="GUID-D9B1E03E-E70B-471B-9B4F-01F7D7E31735.html" description="Share what you&#039;re viewing on [generic phone name] onto a big screen TV." subject="connected_media" keywords="Sharing, TV, Wireless display, Wireless display" />
+<article title="About HTC Media Link HD" icon="" ext_ref="GUID-C3C8C364-DA91-4C4D-AEF6-6D9755CAE63D.html" description="You can plug in HTC Media Link HD to any TV with HDMI port, and use it to display content wirelessly to your TV." subject="connected_media" keywords="HTC Media Link HD, HTC Media Link HD, HDMI" />
+<article title="Sharing your media on DLNA devices" icon="" ext_ref="GUID-343BC363-4EFD-48CA-B8CF-E1941D66E444.html" subject="connected_media" keywords="DLNA" />
+</section>
+</category>
+<category title="Storage" icon="icon_launcher_phone_storage.png">
+<section title="Phone storage">
+<article title="Types of storage" icon="" ext_ref="GUID-DDFFC99A-4658-469D-AFAF-58ABA81F54AA.html" description="Want to know what types of storage you can use for your apps, data, and files?" subject="settings" keywords="Low storage, Phone storage, Phone storage, types of storage, Storage, Settings" />
+<article title="Copying files to or from [generic phone name]" icon="" ext_ref="GUID-43EDFEDC-DD1C-42AE-8417-219C3BBAF3C3.html" description="You can copy your music, photos, and other files to [generic phone name]." coverage="topic_tag-connections_computer-copy_files" subject="connections_computer" keywords="Copying, files to computer, Files, copying to computer, Phone storage, copying files, moving apps to SD card, transfer, sync, htc sync manager, pc, photos, music" />
+<article title="Making more storage space" icon="" ext_ref="GUID-261E145E-268E-428C-B3F9-849A347E21FA.html" description="Here are some tips on how to increase storage space." coverage="topic_tag-settings-maximize_storage" subject="settings" />
+<article title="Encrypting data on [generic phone name]" icon="" ext_ref="GUID-E5C1D068-06AB-44C5-AB7C-CB81689BEB32.html" description="You can encrypt data such as your online accounts, settings, music files and other media. After encryption, you will need to enter the screen lock PIN or password to turn on your phone and access the data." subject="settings" keywords="Phone storage, storage encryption, Security, encrypting data" />
+</section>
+<section title="Dropbox integration">
+<article title="Using Dropbox on [generic phone name]" icon="" ext_ref="GUID-224A63B4-3CF2-41DB-B851-AE715F79E034.html" description="When you use Dropbox, you&#039;ll always have access to your photos, videos, and documents – on [generic phone name], your computer, and your other mobile devices where you have Dropbox access." coverage="topic_tag-dropbox-intro" subject="dropbox" keywords="Dropbox, about, Online storage, online, storage">
+<subarticle title="About the additional free Dropbox storage offer" icon="" ext_ref="GUID-06A8C40C-6E0D-4DDC-9959-20CED2D9AC57.html" description="The additional 23GB Dropbox storage is a special offer that&#039;s available on HTC devices using Android with HTC Sense 4.0 or later, and have Dropbox preloaded." />
+</article>
+<article title="Setting up your Dropbox account" icon="" ext_ref="GUID-64505DE5-5E6A-4C6D-A60B-A278D71B0BF1.html" description="To get your additional 23GB of free Dropbox storage for two years, set up your Dropbox account from [generic phone name], and complete the getting started guide on the Dropbox website." subject="dropbox" keywords="Dropbox, setting up" />
+<article title="Sharing your photos and videos on Dropbox" icon="" ext_ref="GUID-48D8B117-97D0-475C-AFD1-D29284E881E0.html" description="Use Gallery to upload your photos and videos to Dropbox." coverage="topic_tag-dropbox-share_photos_videos" subject="dropbox" keywords="Dropbox, uploading">
+<subarticle title="Uploading your photos and videos to Dropbox from Gallery" icon="" ext_ref="GUID-4F3EE325-894F-42A4-8FB1-2702796E2E02.html" keywords="Backup, media, backup, photos, videos" />
+<subarticle title="Auto uploading camera shots" icon="" ext_ref="GUID-8475B94E-4B4C-4595-87E9-FBE0B24230BA.html" description="Your new camera shots will be uploaded automatically, if you turned on the Camera Upload feature when you set up your Dropbox account on [generic phone name]." keywords="Dropbox, auto upload camera shots" />
+<subarticle title="Viewing your uploaded photos and videos from Gallery" icon="" ext_ref="GUID-D892DDDF-CA2F-4F48-8F18-054CC7D2AC08.html" description="The Camera Uploads folder and subfolders under the Photos folder in your Dropbox can be accessed from Gallery. They will appear as albums." keywords="Gallery, photos in Dropbox" />
+<subarticle title="Sharing the link to your Dropbox" icon="" ext_ref="GUID-E9A24746-92DC-49AF-8294-DE25218D11F3.html" description="Share the link to your entire album of photos and videos that&#039;s in your Dropbox so other people can access it." />
+</article>
+<article title="Sending the links to Dropbox files by email" icon="" ext_ref="GUID-6C652E0D-9856-4431-A9EE-741F817663AB.html" description="Using the Mail app, you can easily include the links to your Dropbox files and send them in your email." subject="dropbox" keywords="Dropbox, sending links" />
+<article title="Keeping your documents in Dropbox" icon="" ext_ref="GUID-B08C1DB3-3AB7-4AB2-93D5-93E13DF49244.html" subject="dropbox" keywords="Dropbox, uploading">
+<subarticle title="Saving an Office document to Dropbox" icon="" ext_ref="GUID-6C20B853-FF5D-400A-AB81-E3B3B2100AFE.html" description="You can open an Office document on [generic phone name] and save it to your Dropbox." />
+<subarticle title="Editing an Office document in Dropbox" icon="" ext_ref="GUID-EE2A6547-A5E8-4901-95AD-5AF741F52914.html" description="You can edit a document that&#039;s stored in your Dropbox and save your changes." />
+<subarticle title="Saving a PDF document to Dropbox" icon="" ext_ref="GUID-27B71EED-2C17-4BD3-AC5D-D27BC053DAE7.html" description="You can open a PDF document on [generic phone name] and save it to your Dropbox." />
+</article>
+<article title="Checking your Dropbox storage space" icon="" ext_ref="GUID-BE976F58-6E95-492C-9E6A-2A82A4C07DD9.html" description="You can check how much storage space you still have in your Dropbox before you upload more content." subject="dropbox" keywords="Dropbox, storage space" />
+<article title="Unlinking [generic phone name] from Dropbox" icon="" ext_ref="GUID-F6193D35-7F55-4527-B4C7-93EF2BF35B88.html" description="You can remotely unlink [generic phone name] from your Dropbox, if you lost your device." subject="dropbox" keywords="Dropbox, unlinking device, disconnecting" />
+</section>
+</category>
+<category title="Sync, backup, and reset" icon="icon_launcher_sync_all.png">
+<section title="Online sync">
+<article title="Adding your social networks, email accounts, and more" icon="" ext_ref="GUID-B5837F66-C6EA-4B8B-9B52-51BAD1A008B2.html" description="Depending on the account type, signing in to your online accounts lets you sync updates between [generic phone name] and the Web." coverage="topic_tag-accounts_sync-add_social_network_account" subject="accounts_sync" keywords="Accounts, syncing, Online accounts, what can you sync with, adding accounts">
+<subarticle title="Adding one or more Google Accounts" icon="" ext_ref="GUID-EF7FF88D-FEC9-4A14-8178-2F074E554A9A.html" description="Sign in to your Google Account to see your Gmail, contacts, and calendars, and to use Google apps on [generic phone name]. If you add more than one Google Account, you can switch between accounts in apps such as Gmail and choose which account to back up your settings to." coverage="topic_tag-accounts_sync-google_account_setup">
+<subarticle title="Forgot your Google Account password?" icon="" ext_ref="GUID-0F8EDE45-252D-4528-88CF-6C61F65407A1.html" description="If you have forgotten your Google Account password, you can try to recover it by going to the Google website." />
+</subarticle>
+</article>
+<article title="Syncing your accounts" icon="" ext_ref="GUID-F538BFD0-BB69-4B36-9A37-ACB3D85FA1FA.html" subject="accounts_sync" keywords="Online accounts, syncing manually" />
+<article title="Removing an account" icon="" ext_ref="GUID-069E4504-A9C1-4CC9-A273-530F5DBEFB86.html" description="You can remove an account to delete all information associated with it from [generic phone name]." subject="accounts_sync" keywords="Online accounts, removing accounts" />
+</section>
+<section title="Backup">
+<article title="Ways of backing up files, data, and settings" icon="" ext_ref="GUID-CCF17B2A-CF91-40EF-BCF6-556A6F4C0BCE.html" description="Back up [generic phone name] before you erase the storage, do a factory reset, or upgrade to a new phone." coverage="topic_tag-backup-intro" subject="backup" keywords="Backup, about, options, backup, move, transfer, sync, htc sync manager, pc, photos, music" />
+<article title="Using HTC Backup" icon="" ext_ref="GUID-5185E9BA-D9BA-401A-B8D5-E59923DFAC5E.html" description="On [generic phone name], use HTC Backup to do a regular backup to the cloud so you can easily restore your content next time." coverage="topic_tag-backup-htc_backup" subject="backup" keywords="HTC Backup, Backup, Backup, back up service, restore, lost, replace, phone">
+<subarticle title="Backing up [generic phone name]" icon="" ext_ref="GUID-9B911509-B7B8-41D3-8E5B-6C808F9F47C3.html" description="Turn on HTC Backup to do a daily backup of your content over Wi‑Fi." />
+<subarticle title="Restoring content to your phone" icon="" ext_ref="GUID-B2C5DC48-85BA-4AE3-BD27-7A99FED64BE0.html" description="If you used HTC Backup to back up [generic phone name], you can restore your content after a factory reset, or to a new HTC phone over Wi‑Fi." />
+</article>
+<article title="Backing up your text messages" icon="" ext_ref="GUID-8A280187-727E-42D4-8B45-C51806B3F76C.html" description="Keep important text messages by backing them up to the phone storage." subject="messages">
+<subarticle title="Restoring text messages" icon="" ext_ref="GUID-C48646BD-8CCA-4B1B-8E83-1EDAC0210EDB.html" />
+<subarticle title="Backing up text messages by email" icon="" ext_ref="GUID-2DDC1A44-D04B-41BA-9C5B-4B385841F82D.html" />
+</article>
+<article title="Backing up your contacts" icon="" ext_ref="GUID-E15C8561-A6D9-4B62-8CC5-74C3EEA39F29.html" subject="people">
+<subarticle title="Restoring contacts" icon="" ext_ref="GUID-0CD38F18-B6DE-4971-AD21-6D25BE3341F8.html" />
+</article>
+<article title="Backing up your personal dictionary" icon="" ext_ref="GUID-A6E35BD7-ED3D-4B65-8BE0-BD5BAF573CB4.html" description="You can back up new words you’ve added to the predictive text dictionary." subject="keyboard">
+<subarticle title="Importing your personal dictionary" icon="" ext_ref="GUID-443A9773-46A4-40D0-ACCC-9091335AA636.html" />
+</article>
+</section>
+<section title="HTC Sync Manager">
+<article title="Syncing your media and data with HTC Sync Manager" icon="" ext_ref="GUID-7A12A3A0-C8D5-4498-9E51-E9F564612DBA.html" description="With HTC Sync Manager, enjoy the same rich media whether you&#039;re at your computer or on the move. Use it also to store your same contacts, important documents, and other data on both your HTC phone and your computer." coverage="topic_tag-htc_sync_manager-intro" subject="htc_sync_manager" keywords="HTC Sync Manager, Sync, Backup, media, backup, photos, videos, music, transfer, sync, htc sync manager, pc, iPhone, Mac" />
+<article title="Installing HTC Sync Manager on your computer" icon="" ext_ref="GUID-50F8F646-9266-4E3D-903B-454F6C9A7946.html" subject="htc_sync_manager" />
+<article title="Transferring iPhone content to your HTC phone" icon="" ext_ref="GUID-0B2A3C40-3303-49D6-BEA7-7D45AE8B6DAF.html" description="With HTC Sync Manager, easily transfer iPhone content such as contacts, messages, wallpaper, camera photos and videos, and more to your HTC phone." subject="htc_sync_manager" keywords="Music, transferring from iPhone, Videos, migrate, upgrade, Apple" />
+<article title="Copying or removing media on your phone" icon="" ext_ref="GUID-F79875DF-2E63-48C6-84D1-3C3923CA89E7.html" description="Easily copy music, photos, and videos, entire albums, or playlists from your computer to your phone." subject="htc_sync_manager" />
+<article title="Syncing data between your phone and your computer" icon="" ext_ref="GUID-5EAC3AB7-6853-4328-A6B6-BC67EAE2C042.html" description="Set up HTC Sync Manager to sync contacts, calendar events, and web bookmarks between your phone and your Windows or Mac computer." subject="htc_sync_manager" />
+<article title="Syncing music, photos, and videos from your phone to your computer" icon="" ext_ref="GUID-0A177345-57F5-4FA2-95C7-03BB0B4085D8.html" description="Set HTC Sync Manager to import all music, photos, and videos from your phone to your computer." subject="htc_sync_manager" keywords="Backup, Backup, photos, Sync, syncing with computer, Data transfer, transferring media, camera roll" />
+<article title="Syncing playlists between your phone and your computer" icon="" ext_ref="GUID-AFF78266-2212-44F9-8185-EAFD7B886AD1.html" description="Set HTC Sync Manager to sync iTunes and Windows Media Player playlists between your phone and your computer." subject="htc_sync_manager" />
+<article title="Syncing documents from your computer to your phone" icon="" ext_ref="GUID-A2EC64EF-4EBA-4A41-B7CC-111FBAC32F25.html" subject="htc_sync_manager" keywords="Sync, syncing with computer" />
+<article title="Getting help" icon="" ext_ref="GUID-3894D9F5-3D87-407D-9C91-6D01E43547F0.html" subject="htc_sync_manager" />
+</section>
+<section title="Reset">
+<article title="Restarting [generic phone name] (Soft reset)" icon="" ext_ref="GUID-BF7A343E-3E2F-497A-B1B4-DAAE014D32D2.html" description="If [generic phone name] is running slower than normal, is unresponsive, or has an app that is not performing properly, try rebooting and see if that helps solve the problem." subject="reset" keywords="Soft reset, Reset">
+<subarticle title="[generic phone name] not responding?" icon="" ext_ref="GUID-14EC53A7-9BFB-44F2-B246-473DFC137F79.html" description="If [generic phone name] does not respond when you touch the screen or press the buttons, you can still restart it." />
+</article>
+<article title="Resetting [generic phone name] (Hard reset)" icon="" ext_ref="GUID-576356E7-3A6C-4D7D-AE58-19070B89437A.html" description="If you’re passing [generic phone name] on to someone else or [generic phone name] has a persistent problem that cannot be solved, you can perform a factory reset (also called a hard reset or master reset)." subject="reset" keywords="Hard reset, Factory reset, Reset, Master reset, hard, master, factory, data, reset, response, freeze, reboot">
+<subarticle title="Performing a factory reset from settings" icon="" ext_ref="GUID-96C06044-0CD5-40C2-AB45-13108B10A8CF.html" />
+<subarticle title="Performing a factory reset using hardware buttons" icon="" ext_ref="GUID-1CE8CDBA-5339-4822-B29A-8FD0EC77762C.html" description="If you can’t turn [generic phone name] on or access settings, you can still perform a factory reset by using the hardware buttons on [generic phone name]." />
+</article>
+</section>
+</category>
+<category title="People" icon="icon_launcher_people.png">
+<article title="Your contacts list" icon="" ext_ref="GUID-38840F47-C4CF-4501-97AF-F1CD17C46BD0.html" description="The People app lists all contacts you&#039;ve stored on [generic phone name] and from online accounts you&#039;re logged in to." subject="people">
+<subarticle title="Filtering your contacts list" icon="" ext_ref="GUID-27E72445-AED0-40E8-AC1F-736BEFF3DD88.html" description="When your contacts list gets long, you can choose which contact accounts to show." keywords="People, filtering your contacts" />
+<subarticle title="Finding people" icon="" ext_ref="GUID-5695AE6D-E8E3-4934-A65B-ED737E5158BF.html" description="Search for contacts stored on [generic phone name], your company directory if you have an Exchange ActiveSync account, or social networks you&#039;ve signed into." />
+</article>
+<article title="Setting up your profile" icon="" ext_ref="GUID-97E7AFAF-0DD9-4C0F-9DD3-02C35B1FD582.html" description="Store your personal contact information to easily send it to other people." subject="people" keywords="People, personal profile" />
+<article title="Adding a new contact" icon="" ext_ref="GUID-C4272E5F-50AE-4AC1-9CED-39547F9C5188.html" subject="people" keywords="People, adding a new contact, Contacts, adding" />
+<article title="Editing a contact’s information" icon="" ext_ref="GUID-E4FD24E7-C54B-4D0C-968F-C30079524357.html" subject="people" keywords="People, editing contacts" />
+<article title="Getting in touch with a contact" icon="" ext_ref="GUID-881D4A9D-E014-4085-98CE-A6CAE810E392.html" subject="people" />
+<article title="Importing or copying contacts" icon="" ext_ref="GUID-5CB46BF3-BD3A-4D97-B773-3A7C9DB76529.html" subject="people" keywords="People, transferring contacts, importing contacts, copying contacts, Contacts">
+<subarticle title="Importing contacts from your SIM card" icon="" ext_ref="GUID-9144A350-3466-4387-9745-E317F01ED91A.html" keywords="Contacts, copying from SIM card, importing contacts" />
+<subarticle title="Importing a contact from an Exchange ActiveSync account" icon="" ext_ref="GUID-DCDB6AFA-8AD6-4A20-83F7-4CE8874870FB.html" keywords="Contacts, importing contacts" />
+<subarticle title="Copying contacts from one account to another" icon="" ext_ref="GUID-7A13E596-8026-44C0-9134-61FB04D4FD88.html" keywords="People, copying contacts" />
+</article>
+<article title="Merging contact information" icon="" ext_ref="GUID-E75C67F3-393A-4CE2-A470-5FCF80DBE7E2.html" description="Avoid duplicate entries by merging contact information from different sources, such as your social network accounts, into one contact." coverage="topic_tag-people-merge_contact_info" subject="people" keywords="People, merging contact information">
+<subarticle title="Accepting contact link suggestions" icon="" ext_ref="GUID-0A9F1D6D-13CA-43C4-9135-E2B169F552C8.html" description="When [generic phone name] finds contacts that can be merged, you’ll see a link notification when you open the People app." keywords="People, contact link suggestions" />
+<subarticle title="Manually merging contact information" icon="" ext_ref="GUID-9D6EDFCE-58AA-404C-9DC3-19BCAB9EA63E.html" />
+<subarticle title="Breaking the link" icon="" ext_ref="GUID-EB74FA2C-0E1A-4130-AFC4-8BCB923FA777.html" />
+</article>
+<article title="Sending contact information" icon="" ext_ref="GUID-CF2A7F9D-AE6B-4423-BC37-DFDFFFE60ED2.html" subject="people" keywords="People, sending contact information">
+<subarticle title="Sending multiple contact cards" icon="" ext_ref="GUID-7036AFDF-AFF9-4FB4-A037-A979AD7B1E4F.html" />
+</article>
+<article title="Contact groups" icon="" ext_ref="GUID-1DABF91F-A6EA-4A68-ABAD-558ECF84FCA5.html" description="Organize your friends, family, and colleagues into groups so you can quickly send a message or email to everyone in the group." subject="people" keywords="People, groups, contact groups">
+<subarticle title="Creating a group" icon="" ext_ref="GUID-72666091-EE2E-47CA-B419-800C08E4F582.html" />
+<subarticle title="Sending a message or email to a group" icon="" ext_ref="GUID-AFC1FCD7-7D40-4D92-B25A-54EFBA78BDA4.html" />
+<subarticle title="Editing a group" icon="" ext_ref="GUID-C69B7EF8-468C-412C-9178-B42B17A5EFD0.html" />
+<subarticle title="Managing your contact groups" icon="" ext_ref="GUID-4E6139EE-3708-4A86-AF57-382ADF2680FF.html" />
+</article>
+</category>
+<category title="Email" icon="icon_launcher_mail.png">
+<section title="Gmail">
+<article title="Viewing your Gmail Inbox" icon="" ext_ref="GUID-766D08BE-49F7-4540-8CB3-98F77A3B1D26.html" description="All your received email messages are delivered to your Inbox." subject="gmail" keywords="Gmail" />
+<article title="Sending an email message in Gmail" icon="" ext_ref="GUID-C03623D8-1423-4A31-A330-E4125ECBF496.html" subject="gmail" />
+<article title="Replying to or forwarding email messages in Gmail" icon="" ext_ref="GUID-2B44157F-15B1-489E-8DFC-FE9E8B58EC2D.html" subject="gmail" />
+</section>
+<section title="Mail">
+<article title="Checking your mail" icon="" ext_ref="GUID-1FA63B97-5617-4F34-A8F5-E3D9D1F97E47.html" description="The Mail app is where you read, send, and organize email messages from one or more email accounts that you’ve set up on [generic phone name]." coverage="topic_tag-mail-inbox" subject="mail" keywords="Email, Mail">
+<subarticle title="Organizing your inbox" icon="" ext_ref="GUID-F8AAAB74-83F4-4C7E-BD7C-407F70A8A8C0.html" description="Organize your email messages into tabs and quickly find the messages you want." />
+</article>
+<article title="Sending an email message" icon="" ext_ref="GUID-2B8B11C4-5822-47E7-AE9B-25AA1470C093.html" subject="mail" keywords="Mail, sending, attachments, carbon copy, blind copy (cc, bcc), draft">
+<subarticle title="Resuming a draft email message" icon="" ext_ref="GUID-F607ADFC-61C3-4411-BEDA-66FA969E8944.html" />
+</article>
+<article title="Reading and replying to an email message" icon="" ext_ref="GUID-8074DBF9-DA53-4E94-8A67-ABFA7720562C.html" subject="mail" keywords="Mail, replying">
+<subarticle title="Saving an email message in the Tasks app" icon="" ext_ref="GUID-BEB10AD9-F525-441E-B2D4-014108346F56.html" description="Save an email message in your Tasks list so you can remind yourself when to reply." />
+</article>
+<article title="Managing email messages" icon="" ext_ref="GUID-C6EF62B3-0FDD-4924-B68E-C12683066FCC.html" description="The Mail app provides easy ways to sort, move, or delete your email messages." subject="mail">
+<subarticle title="Sorting email messages" icon="" ext_ref="GUID-0E2CD348-F105-45CC-BB8D-6FDCF1DF6C5C.html" description="Customize how you sort your email messages." keywords="Mail, sorting" />
+<subarticle title="Moving email messages to another folder" icon="" ext_ref="GUID-5835AF3E-5C3B-466A-8AB9-53EA5BA36564.html" keywords="Mail folders, moving email messages" />
+<subarticle title="Deleting email messages" icon="" ext_ref="GUID-2209FADC-F95D-4FCD-92D8-5AF8BCB6007B.html" keywords="Mail, deleting" />
+</article>
+<article title="Searching email messages" icon="" ext_ref="GUID-27D5D978-7C66-46B7-BC29-DC2E74277F50.html" subject="mail" keywords="Mail, searching">
+<subarticle title="Searching for emails from a contact" icon="" ext_ref="GUID-2C1AD933-4E8F-403E-82BA-4C74B5CE8A96.html" />
+</article>
+<article title="Working with Exchange ActiveSync email" icon="" ext_ref="GUID-A8F7D67A-486A-4A9F-8308-592A7B754333.html" description="Flag important email messages, set your out of the office reply, or send invites to your next team meeting while you&#039;re on the go." subject="mail">
+<subarticle title="Flagging an email" icon="" ext_ref="GUID-8070DBD4-C1BA-4334-A3CB-FEC07F13C18B.html" keywords="Exchange ActiveSync, flagging an email" />
+<subarticle title="Setting your Out of the office status" icon="" ext_ref="GUID-5912E4A2-8F5A-4755-B8F9-5B34D71B63C3.html" coverage="topic_tag-mail-out_of_office" keywords="Exchange ActiveSync, Out of office" />
+<subarticle title="Sending a meeting request" icon="" ext_ref="GUID-06966E89-0933-4375-B4A4-7C2C6A9D463A.html" keywords="Meeting request, Exchange ActiveSync, sending a meeting request, meeting request" />
+</article>
+<article title="Adding an email account" icon="" ext_ref="GUID-75D1AEC6-9430-45F5-83D1-C2A469D385AE.html" description="Set up additional email accounts such as another Microsoft Exchange ActiveSync account or an account from a Web-based email service or email provider." coverage="topic_tag-mail-pop_imap_setup" subject="mail" />
+<article title="What is Smart Sync?" icon="" ext_ref="GUID-10A4F2FA-B617-40E7-A7A4-5B6713CC4FC9.html" description="Smart Sync automatically extends the sync time the longer the Mail app is inactive." subject="mail" />
+</section>
+</category>
+<category title="Travel and maps" icon="icon_launcher_locations.png">
+<section title="Location settings">
+<article title="Turning location services on or off" icon="" ext_ref="GUID-EB6F8B47-F189-4069-8DFD-6B25806135C7.html" description="In order to find your location on [generic phone name], you need to enable location sources." coverage="topic_tag-settings-location_settings" subject="settings" keywords="Locations, turning on location services, GPS (Global Positioning System), GPS, satellites" />
+</section>
+<section title="Google Maps">
+<article title="About Google Maps" icon="" ext_ref="GUID-0B88F803-0C99-4340-B93E-0C6D35E32B55.html" description="Google Maps lets you track your current location, view real-time traffic situations, and receive detailed directions to your destination." subject="google_maps" keywords="Google Maps, Maps, GPS, satellites" />
+<article title="Getting around maps" icon="" ext_ref="GUID-8139AF7D-87F4-471D-877E-21BB2BA9862A.html" description="When you open Google Maps, you can easily find your location on the map or check out nearby places by panning and zooming in and out on the map." subject="google_maps">
+<subarticle title="Checking the details of a location" icon="" ext_ref="GUID-2B43DF14-0559-4637-B69C-E612AF3583CD.html" />
+</article>
+<article title="Searching for a location" icon="" ext_ref="GUID-D52D8593-9733-4266-A8DE-CB809294D545.html" description="In Google Maps, you can search for a location, such as an address or a type of business or establishment (for example, museums)." subject="google_maps">
+<subarticle title="Clearing the map" icon="" ext_ref="GUID-4ABB2577-AADE-4590-A11C-E775103F230C.html" description="After searching on a map, you can clear away the various markers drawn on it." />
+</article>
+<article title="Searching for a place of interest near you" icon="" ext_ref="GUID-647B1D32-5EBB-4C07-88C7-819E79DE251F.html" description="Use Google+ Local to find places of interest near your current location." subject="google_maps" />
+<article title="Getting directions" icon="" ext_ref="GUID-121E901B-4C46-4EB9-A9E3-5562C6C85391.html" description="Google Maps can provide directions for travel by foot, public transportation, or car." subject="google_maps" />
+<article title="Finding your friends with Google Latitude (available by country)" icon="" ext_ref="GUID-C1CB0858-8E33-4DC9-A574-178F4C69957D.html" description="Google Latitude user location service lets you and your friends share locations and status messages with each other." subject="google_maps" keywords="Google Latitude">
+<subarticle title="Opening and joining Latitude" icon="" ext_ref="GUID-B199029B-2F06-44AF-9C53-E2DB57764A01.html" />
+</article>
+<article title="Downloading offline maps" icon="" ext_ref="GUID-7D03B2B7-D1E1-4DEF-A888-40B0FD5F4FBF.html" description="Download an offline map so you can quickly access that map and save on bandwidth too." subject="google_maps" />
+<article title="Viewing offline maps" icon="" ext_ref="GUID-BA608C7D-F0C9-48C4-B69C-CF473C7391E3.html" subject="google_maps" />
+</section>
+<section title="HTC Car">
+<article title="On the road with HTC Car" icon="" ext_ref="GUID-793BBCD3-CE25-4195-9AD4-920D5C62BBAE.html" description="Get easy access to music, maps, navigation, and phone calls with HTC Car." coverage="topic_tag-car_mode-intro" subject="car_mode" keywords="Car, about, HTC Car Kit, Driving, HTC Car, Navigation, driving, accessory" />
+<article title="Using voice commands in HTC Car" icon="" ext_ref="GUID-C252328E-D2C7-4CBA-8842-3139CFFD5A2B.html" description="Use your voice to control HTC Car." subject="car_mode" keywords="Car, voice commands" />
+<article title="Playing music in HTC Car" icon="" ext_ref="GUID-45670CC0-8D48-46DB-B5C6-C3A7AE129486.html" subject="car_mode" keywords="Car, playing music" />
+<article title="Listening to Internet radio with TuneIn" icon="" ext_ref="GUID-2C41801B-F36F-4884-8621-0B643F8A2D16.html" description="Right from HTC Car, enjoy listening to Internet radio stations with TuneIn." subject="car_mode" keywords="Car, Internet radio" />
+<article title="Finding your way with HTC Car" icon="" ext_ref="GUID-FE7E8CF3-45E2-4FD5-B637-BB81176BFDC8.html" description="HTC Car helps you to find your way to where you want to go." subject="car_mode">
+<subarticle title="Exploring what&#039;s around you" icon="" ext_ref="GUID-1F27AF90-2BCD-49C0-AF6D-52B5DC3DA9E2.html" description="With just a few taps, you can find interesting places around you quickly." />
+<subarticle title="Finding places in HTC Car" icon="" ext_ref="GUID-89849918-DF3C-473E-9C39-6B214E6C2354.html" keywords="Car, navigation, map" />
+</article>
+<article title="Staying connected to your contacts" icon="" ext_ref="GUID-1614E25C-820A-41C4-B366-83E2B8C0CF48.html" description="With HTC Car, you can take calls, make calls, and get notifications." subject="car_mode">
+<subarticle title="Handling incoming calls in HTC Car" icon="" ext_ref="GUID-FAAE996F-C8D7-4647-A21A-7765C84F59B3.html" description="When you receive an incoming call, you can easily answer or decline by speaking or tapping." keywords="Car, handling calls" />
+<subarticle title="Making phone calls in HTC Car" icon="" ext_ref="GUID-36FAA69F-D24B-43EF-A6B5-87DE92727EFD.html" />
+</article>
+<article title="Customizing HTC Car" icon="" ext_ref="GUID-2BF1AEEF-D70A-4519-BC58-2FC8066EBB75.html" subject="car_mode" />
+</section>
+</category>
+<category title="Google Play and other apps" icon="icon_launcher_htc.png">
+<section title="Getting apps">
+<article title="Getting apps from Google Play" icon="" ext_ref="GUID-734C6DD1-BF5E-486D-A769-377C734A9770.html" description="Google Play is the place to go to find new apps for [generic phone name]." subject="android_market" keywords="Android Market, Google Play, Market, Google Play, installing apps">
+<subarticle title="Finding and installing an app" icon="" ext_ref="GUID-105CD885-0DCE-491E-917A-EFA1B6C42465.html" description="When you install apps and use them on [generic phone name], they may require access to your personal information or access to certain functions or settings." keywords="Apps, installing" />
+<subarticle title="Restoring apps from Google Play" icon="" ext_ref="GUID-DE853554-A90F-4689-875C-AF0379648B47.html" description="Restore apps that were downloaded previously." keywords="Apps, restoring, Backup, restoring backed up apps, reinstall" />
+</article>
+<article title="Downloading apps from the web" icon="" ext_ref="GUID-E9B2AE2A-B1D3-438D-BCB4-CF182D55933E.html" description="You can download apps directly from websites." subject="browser" keywords="Apps, non-Google Play apps, installing, unknown sources" />
+<article title="Uninstalling an app" icon="" ext_ref="GUID-FC4A7FDD-4270-4DBA-954F-CAB9C75DEB25.html" description="If you no longer need an app that you&#039;ve downloaded and installed, you can easily uninstall it." subject="apps" keywords="Apps, uninstalling, Google Play, refund, remove, delete" />
+</section>
+<section title="Essential apps">
+<article title="Using the Clock" icon="" ext_ref="GUID-27EAF140-C77B-4F0B-8230-852196D208C4.html" description="Use [generic phone name] as a world clock to see the date and time in cities across the globe." subject="clock" keywords="Clock, HTC Clock">
+<subarticle title="Setting the date and time manually" icon="" ext_ref="GUID-F3D8AC3A-7CAB-48B4-AFE5-9044B9EBECE2.html" keywords="Clock, setting date and time" />
+<subarticle title="Setting an alarm" icon="" ext_ref="GUID-3A528157-6943-4D4C-9873-5C403880F327.html" description="You can set up one or more alarms." keywords="Alarms, setting, Clock, alarm, HTC Clock, setting an alarm" />
+</article>
+<article title="Checking Weather" icon="" ext_ref="GUID-57EE6E42-83D2-422E-98D7-5EC447734375.html" description="Use the Weather app and widget to check the current weather and weather forecasts for the next few days." subject="weather" keywords="Weather, checking weather" />
+<article title="Viewing the Calendar" icon="" ext_ref="GUID-E398B99C-0C77-40C2-AA72-F671B7CAD5C5.html" description="Use the Calendar app to view your events, meetings, and appointments." subject="calendar" keywords="Calendar, views">
+<subarticle title="Month view" icon="" ext_ref="GUID-2AA45DEF-3894-4379-9C9D-CF958EAA9BB2.html" description="In month view, you will see markers on days that have events." />
+<subarticle title="Day and agenda views" icon="" ext_ref="GUID-D3ED1506-F32A-4715-868C-DC3F6BE381D6.html" description="Day view shows your day&#039;s schedule and weather forecast for the next few days, while agenda view gives a quick glance of all your day&#039;s events." keywords="Calendar, dual time zone" />
+<subarticle title="Week view" icon="" ext_ref="GUID-76EBC780-02AF-4E17-88EC-38AE9AC49E4A.html" description="Week view displays a chart of the events of one week." />
+</article>
+<article title="Scheduling or editing an event" icon="" ext_ref="GUID-B2CFB344-CE17-49CA-90A4-FA8D4D617946.html" description="You can create or edit events on [generic phone name], and also sync events with your Google or Exchange ActiveSync calendars." subject="calendar" keywords="Calendar, creating an event">
+<subarticle title="Checking your schedule for an event" icon="" ext_ref="GUID-0E6A5BC2-4FBA-439D-BB27-4F482B4ABA67.html" description="In Calendar, you can check your appointments to see if a new event would conflict with your schedule." keywords="Calendar, meeting conflicts, conflict" />
+</article>
+<article title="Choosing which calendars to show" icon="" ext_ref="GUID-EC53C53B-899F-4C88-A7C5-D04B032AA13C.html" subject="calendar">
+<subarticle title="Why aren’t my calendar events showing up?" icon="" ext_ref="GUID-C5D878A7-18C6-4DF3-9CD0-604A5F77D3BF.html" description="If you can&#039;t find events from your email accounts or social networks in Calendar, check whether the Calendar sync is turned on in Settings." />
+</article>
+<article title="Sharing an event" icon="" ext_ref="GUID-379F487F-6FE9-4543-9991-E4505D97BAFD.html" description="You can share a calendar event as a vCalendar using Bluetooth or by sending it as a file attachment with your email or message." subject="calendar" keywords="Sharing, events" />
+<article title="Accepting or declining a meeting invitation" icon="" ext_ref="GUID-95FB8F8F-FF8A-4851-9368-5A1CEE5D4EA9.html" description="Switch to Invites view to see meeting invitations which you have not yet accepted or declined." subject="calendar" keywords="Calendar, meeting invitations" />
+<article title="Dismissing or snoozing event reminders" icon="" ext_ref="GUID-A2368489-EB26-415C-9DFC-46D0855BEC46.html" description="If you have set at least one reminder for an event, the upcoming event icon will appear in the notifications area of the status bar to remind you." subject="calendar" keywords="Calendar, reminders, sending quick response, attendee" />
+</section>
+<section title="Fun apps">
+<article title="Watching videos on YouTube" icon="" ext_ref="GUID-010E8008-3B28-49A9-B35A-0FD772FAE983.html" description="Use the YouTube app to check out what’s popular on the online video-sharing website." subject="youtube" keywords="YouTube, watching">
+<subarticle title="Preloading videos" icon="" ext_ref="GUID-F7B7793A-77D0-4E3B-AD89-DFE970F1C8A3.html" description="Set the YouTube app to preload videos so that you can watch them without interruptions." keywords="YouTube, preloading" />
+<subarticle title="Clearing the search history" icon="" ext_ref="GUID-84248649-A747-4E3B-BED7-9758841577D5.html" />
+</article>
+<article title="Listening to FM Radio" icon="" ext_ref="GUID-2B04C2D4-76B2-4BA8-97FB-86ABFDF81E27.html" description="Tune in and listen to your favorite radio stations using the FM Radio app." subject="fm_radio" keywords="FM Radio, using, Radio" />
+<article title="Switching to Kid Mode" icon="" ext_ref="GUID-B29FF4EA-A16E-4EF4-8D12-93B973EBB35C.html" description="Use Kid Mode to let your children enjoy fun and age-appropriate games and more, while protecting your important data from accidental deletion." subject="zoodles" keywords="Kid mode, about, child lock">
+<subarticle title="How can I allow my child to access an app in Kid Mode?" icon="" ext_ref="GUID-53D5B162-A203-4C5F-B2D4-A3436C277CAC.html" description="When in Kid Mode, you can choose which apps on [generic phone name] your child will have access to." keywords="Kid mode, choosing apps, allow, games, storybook" />
+<subarticle title="Closing Kid Mode" icon="" ext_ref="GUID-941F0B2C-39D5-478A-8CED-AA3634C0148F.html" keywords="Kid mode, closing, exit" />
+</article>
+</section>
+<section title="Productivity apps">
+<article title="Keeping track of your tasks" icon="" ext_ref="GUID-875C808B-1E23-4956-9E7B-9C5BC8CEB7BC.html" description="Use the Tasks app to organize and track to do and task lists." subject="tasks" keywords="Tasks, about, to-do, to do">
+<subarticle title="Creating a task" icon="" ext_ref="GUID-14A17851-1D9C-4A5F-81CE-FCD1125C9FFE.html" keywords="Tasks, creating a task" />
+<subarticle title="Managing tasks" icon="" ext_ref="GUID-63373195-6BB0-4CB7-A902-C88FCDA87EA5.html" keywords="Tasks, managing" />
+<subarticle title="Managing task lists" icon="" ext_ref="GUID-09DB7F1C-6067-41E6-834E-C1B07C2AB227.html" keywords="Tasks, managing lists" />
+</article>
+<article title="Taking notes" icon="" ext_ref="GUID-BF784AD9-8875-466A-9807-F3A451D50BCC.html" description="Use Notes to jot down ideas, questions, and everything else. Type in text, record audio, attach photos and documents, and even link your notes to a meeting event in Calendar." subject="notes" keywords="Notes, about">
+<subarticle title="Creating a notebook" icon="" ext_ref="GUID-548FE7A4-65BB-45D2-9D0B-A947E5339F41.html" keywords="Notes, notebooks" />
+<subarticle title="Composing a note" icon="" ext_ref="GUID-413AA48C-6F7F-4477-92E6-7E6F8CFA528E.html" keywords="Notes, writing, compose">
+<subarticle title="Creating a drawing" icon="" ext_ref="GUID-C422526E-18CA-4346-91B1-6DCCDC125B0A.html" description="You can create a drawing, scribble, or illustration and include it in your note." />
+<subarticle title="Playing an audio recording in Notes" icon="" ext_ref="GUID-A82E4544-B88D-42A2-9893-34C2936DEEF3.html" description="After recording a meeting, you can listen to the audio clip to review key points." keywords="Notes, timemarks, audio recording, Timemark, review" />
+</subarticle>
+<subarticle title="Syncing notes" icon="" ext_ref="GUID-FE35094A-1AA0-4ED6-8F70-69E8A88D5FDA.html" description="You can choose whether to automatically or manually sync your notes between [generic phone name] and your Evernote account on the Web." keywords="Backup, notes" />
+</article>
+<article title="Recording voice clips" icon="" ext_ref="GUID-F759BBA0-9A7C-4B43-8EC0-17D19B426812.html" description="Use Voice Recorder to capture information during lectures, interviews, or even to create your own audio log." subject="voice_recorder" keywords="Voice Recorder, Recording your voice" />
+</section>
+</category>
+<category title="Internet connections" icon="icon_launcher_mobile_network.png">
+<article title="Data connection" icon="" ext_ref="GUID-F8BCE11D-4C74-4AA2-8C02-EF3B7FD8C82D.html" description="When you turn on [generic phone name] for the first time, it will be automatically set up to use your mobile operator&#039;s data connection (if the SIM card is inserted)." coverage="topic_tag-connections_internet-data" subject="connections_internet" keywords="Data connection, Internet connection, data connection, Internet, connections, Mobile data">
+<subarticle title="Turning the data connection on or off" icon="" ext_ref="GUID-F4C1F8E3-6337-40A3-B63F-20E2AA636B19.html" description="Turning your data connection off saves battery life and money on data charges." keywords="Data connection, turning on or off, 3G, 4G, LTE" />
+<subarticle title="Adding a new access point" icon="" ext_ref="GUID-C2D01026-89B8-4D5C-A307-76A27887545F.html" description="You can add a new Access Point Name (APN) when roaming or if you have difficulty establishing a data connection." keywords="Data connection, access point names (APN)" />
+</article>
+<article title="Managing your data usage" icon="" ext_ref="GUID-E7EB29B5-9920-4DAB-8433-6B9BA073EAA1.html" description="If you&#039;re on a limited data allowance, it&#039;s important to keep track of the activities and apps that usually send and receive data, such as browsing the web, syncing online accounts, and sending email or sharing status updates." subject="connections_internet" keywords="Data connection, usage, overage, charge, fee, limit, cap">
+<subarticle title="Turning data roaming on or off" icon="" ext_ref="GUID-4A61E694-9B86-4F2E-A195-AD81A1033441.html" description="Connect to your mobile operator’s partner networks and access data services when you’re out of your mobile operator’s coverage area." keywords="Data connection, data roaming" />
+<subarticle title="Keeping track of your data usage" icon="" ext_ref="GUID-B3DB6E8E-72FC-4539-8006-DB20AC473C8E.html" description="Monitor your data usage so you don&#039;t go over your monthly data allowance." />
+<subarticle title="Viewing the data usage of apps" icon="" ext_ref="GUID-8171EDAD-2774-4AF3-B903-CDED9A0379D5.html" />
+</article>
+<article title="Wi‑Fi" icon="" ext_ref="GUID-1AA0B89B-37AF-4193-A997-81F029B5C7D9.html" description="To use Wi‑Fi, you need access to a wireless access point or “hotspot”." coverage="topic_tag-connections_internet-wifi" subject="connections_internet" keywords="Wi-Fi, Internet connection">
+<subarticle title="Turning Wi‑Fi on and connecting to a wireless network" icon="" ext_ref="GUID-FE9BBDA9-1B3A-469A-8E58-1EE8AB2E372A.html" keywords="Wi-Fi, turning on" />
+<subarticle title="Preventing notifications from unsecured Wi-Fi networks" icon="" ext_ref="GUID-88635295-770A-4019-AA05-332938891740.html" description="You can prevent getting notified by unsecured Wi-Fi networks." />
+<subarticle title="Connecting to a Wi‑Fi network via WPS" icon="" ext_ref="GUID-0A4D2211-CC63-4285-B302-A7553B8FB1F2.html" description="If you&#039;re using a Wi‑Fi router with Wi‑Fi Protected Setup (WPS), you can connect [generic phone name] easily." keywords="Wi-Fi, connecting via WPS, WPS, router" />
+<subarticle title="Disconnecting from the current wireless network" icon="" ext_ref="GUID-441796F9-3319-4E1D-8008-8E9F2B29C624.html" />
+<subarticle title="Connecting to a different Wi‑Fi network" icon="" ext_ref="GUID-50D53077-BD1A-4E24-8A25-4E0F5A6E9891.html" keywords="Wi-Fi, connecting to another network" />
+<subarticle title="Logging into a public Wi‑Fi network automatically (WISPr)" icon="" ext_ref="GUID-8F4CF9D4-6356-4C24-AD04-8DD2A55876A6.html" description="You can set [generic phone name] to automatically log into a public Wi‑Fi network that you regularly use." />
+</article>
+<article title="Connecting to a virtual private network (VPN)" icon="" ext_ref="GUID-311D0878-6B63-44EC-8FC5-53B8519EEE37.html" description="Add virtual private networks (VPNs) so you can connect and access resources inside a secured local network, such as your corporate network." subject="connections_internet" keywords="VPN, Internet connection, Security, security certificates">
+<subarticle title="Adding a VPN connection" icon="" ext_ref="GUID-C75D37D7-AA48-4863-8C2D-472A4E283AA5.html" keywords="VPN, adding a connection" />
+<subarticle title="Connecting to a VPN" icon="" ext_ref="GUID-A6D6E4EA-95AC-4DE4-9BB5-4D211458BF72.html" keywords="VPN, connecting" />
+<subarticle title="Disconnecting from a VPN" icon="" ext_ref="GUID-28CF436D-CA7F-44AF-A156-51914D9011D4.html" keywords="VPN, disconnecting" />
+</article>
+<article title="Using [generic phone name] as a wireless router" icon="" ext_ref="GUID-62E88BB8-1A40-4DE8-8740-740F5F3E131C.html" description="Share your data connection with other devices by turning [generic phone name] into a wireless router." coverage="topic_tag-internet_connections-use_phone_as_wireless_router" subject="connections_internet" keywords="Wireless router, Internet connection, wireless router, Router, Hotspot, wi-fi, wifi" />
+<article title="Sharing your phone&#039;s Internet connection by USB tethering" icon="" ext_ref="GUID-3BE0F528-F346-452A-BC11-83D7B9B5B654.html" description="Use the data connection of [generic phone name] to connect to the Internet." coverage="topic_tag-connections_internet-tethering" subject="connections_internet" keywords="USB Tethering, Tethering, Data connection, sharing, Smart network sharing" />
+<article title="Connecting to the Internet through a computer" icon="" ext_ref="GUID-35B3AFE1-0FB8-4632-BBC0-E27D3E3F3BFE.html" description="If you temporarily don’t have Internet access on [generic phone name], you can still go online by using your computer’s Internet connection." subject="connections_internet" keywords="Smart network sharing" />
+<article title="Wi‑Fi printing" icon="" ext_ref="GUID-8BB9470F-8025-4514-95FF-B18E116AF5C6.html" description="Connect [generic phone name] to a supported printer via Wi‑Fi and print out documents, email, photos, and more." coverage="topic_tag-connections_printer-intro" subject="connections_printer" keywords="Printing">
+<subarticle title="Printing a photo" icon="" ext_ref="GUID-9D9EF3C4-89A2-4F51-9E8D-F719193C6912.html" />
+<subarticle title="Adding a printer" icon="" ext_ref="GUID-6C343725-6206-48F8-8C58-96F8628549F2.html" description="If your printer does not show up in the list, you must add it." />
+</article>
+</category>
+<category title="Wireless sharing" icon="icon_launcher_bluetooth.png">
+<article title="Connecting a Bluetooth headset" icon="" ext_ref="GUID-9EDAF94B-3B0F-4862-B3E6-EFD29C83DBD8.html" description="You can listen to music over a Bluetooth stereo headset, or have hands-free conversations using a compatible Bluetooth headset." coverage="topic_tag-bluetooth-connect_headset" subject="bluetooth" keywords="Bluetooth, connecting a Bluetooth headset, Hands free, Headphones, connecting and pairing, Pair a Bluetooth headset, handsfree, hands-free">
+<subarticle title="Reconnecting a Bluetooth headset" icon="" ext_ref="GUID-59C0020B-099F-41E3-BACA-CB03BA694885.html" />
+</article>
+<article title="Unpairing from a Bluetooth device" icon="" ext_ref="GUID-9D83D253-4796-4618-B4C0-11D24DC7C154.html" subject="bluetooth" />
+<article title="Where sent information is saved" icon="" ext_ref="GUID-1918FF50-23CA-4AE7-8745-CB8FDDDDAF7C.html" description="When you send information using Bluetooth, the location where it&#039;s saved depends on the type of information and the receiving device." subject="bluetooth" keywords="Bluetooth, received file location, sharing, folder" />
+<article title="Receiving files using Bluetooth" icon="" ext_ref="GUID-3A0E9DF3-7321-4764-A1A3-19414A5AE92C.html" description="[generic phone name] lets you receive various files with Bluetooth, including photos, music tracks, contact info, calendar events, and documents such as PDFs." subject="bluetooth" keywords="Bluetooth, receiving information, vCalendar, vCard, Calendar, Contact" />
+<article title="Sharing content with NFC" icon="" ext_ref="GUID-9992FC61-434C-4655-9AFB-009DC385F198.html" description="With built-in NFC (near field communication) on [generic phone name], you can share content to another NFC-capable mobile device in an instant." subject="nfc" keywords="NFC (Near Field Communication), Android Beam, NFC">
+<subarticle title="Turning NFC on" icon="" ext_ref="GUID-EC5C3150-8F11-47AF-93FE-DEC1450389D3.html" />
+<subarticle title="Beaming content" icon="" ext_ref="GUID-C03C1CC2-3200-4263-A965-149A5E2B19ED.html" />
+</article>
+</category>
+<category title="Settings and security" icon="icon_launcher_settings.png">
+<article title="Turning Airplane mode on or off" icon="" ext_ref="GUID-7A709DCB-29AE-400C-B5BC-9D4F8FE43A71.html" description="When you enable Airplane (Flight) mode, all wireless radios on [generic phone name] are turned off, including the call function, data services, Bluetooth, and Wi‑Fi." subject="phone" keywords="Airplane mode, radio, airplane" />
+<article title="Keeping the screen on while charging" icon="" ext_ref="GUID-A45EBD13-0B0D-49D3-999F-E9CC34F1F45E.html" subject="settings" />
+<article title="Turning automatic screen rotation off" icon="" ext_ref="GUID-3E159A22-457B-443B-83AD-22FF245CFDF3.html" subject="settings" keywords="Screen, rotation, Display, screen rotation">
+<subarticle title="Screen not rotating?" icon="" ext_ref="GUID-5145AB37-6387-43F3-9A96-606284C2F4E4.html" description="Recalibrate the screen if you feel that the screen orientation does not respond properly to the way you hold [generic phone name]." keywords="Display, recalibrating G-sensor, Screen, G-sensor, rotation" />
+</article>
+<article title="Adjusting the time before the screen turns off" icon="" ext_ref="GUID-F25C1952-D1F0-4B90-B3F6-A56D80C1A60D.html" description="After a period of inactivity, the screen turns off to conserve battery power." subject="settings" keywords="Display, changing the time before the screen turns off, Screen, Sleep mode settings, dim, display" />
+<article title="Adjusting the screen brightness manually" icon="" ext_ref="GUID-6B56A2B2-EBD3-489E-B78B-A8667B80E98E.html" subject="settings" keywords="Screen, adjusting brightness, Display, screen brightness, dim, display" />
+<article title="Playing a sound when selecting onscreen items" icon="" ext_ref="GUID-18D8BBF3-3251-4E5F-86D1-1A8BDA8CA011.html" subject="sounds" keywords="Sound, audible selection" />
+<article title="Changing the display language" icon="" ext_ref="GUID-CCF8C445-2FFD-452E-8568-351F69D479E1.html" description="Changing the language adjusts the keyboard layout, date and time formatting, and more." subject="settings" keywords="Change phone language, Language, system language, Settings, display language, language, phone" />
+<article title="Accessibility settings" icon="" ext_ref="GUID-49FFB4B8-5391-4FE8-B84F-44189061FD1A.html" subject="settings" keywords="Settings, Accessibility" />
+<article title="Working with certificates" icon="" ext_ref="GUID-8E19E3DC-41F9-4C36-B49E-59552A66007C.html" description="Use client and Certificate Authority (CA) digital certificates to enable [generic phone name] to access VPN or secured Wi-FI networks, and also to provide authentication to online secure servers." subject="settings">
+<subarticle title="Installing a digital certificate" icon="" ext_ref="GUID-48B73641-3CC5-42E2-B273-291B027CB66D.html" />
+</article>
+<article title="Protecting your SIM card with a PIN" icon="" ext_ref="GUID-3DB25499-6AC6-4CF4-906B-542E5F209DF0.html" description="Add another layer of security for [generic phone name] by assigning a PIN (personal identification number) to your SIM." subject="settings" keywords="SIM card, SIM PIN, Security, protecting SIM card with PIN, security">
+<subarticle title="Restoring a SIM card that has been locked out" icon="" ext_ref="GUID-992171E1-8DA7-4594-972B-7F243588752A.html" description="If you enter the wrong PIN more times than the maximum number of attempts allowed, your SIM card will become “PUK-locked.”" keywords="PUK (PIN Unblock Key)" />
+</article>
+<article title="Protecting [generic phone name] with a screen lock" icon="" ext_ref="GUID-1BF482EC-9803-43AB-AD7F-705DC034978F.html" description="Protect your personal information and prevent others from using [generic phone name] without your permission by setting a screen lock pattern, face unlock, PIN, or password." coverage="topic_tag-settings-screen_lock" subject="settings" keywords="Security, protecting phone with screen lock, Screen lock">
+<subarticle title="Forgot your screen lock pattern?" icon="" ext_ref="GUID-7EDB756B-2442-447E-B655-37B3370FEDB1.html" description="If you’ve forgotten your screen lock pattern, you have up to five attempts to try and unlock [generic phone name]." />
+</article>
+<article title="Checking your phone&#039;s HTC Sense version" icon="" ext_ref="GUID-3F0BA03D-0C1B-4531-B598-FF4562EF19C6.html" description="You can view the HTC Sense version, as well as other information about your phone." subject="settings" keywords="HTC Sense version, Phone settings, Settings, About, Phone information" />
+</category>
+</categories>
+<disclaimer title="Features and apps may vary by region or product version."/>
+</content>

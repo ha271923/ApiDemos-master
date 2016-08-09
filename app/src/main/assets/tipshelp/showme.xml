@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<videos>
+  <video tags="topic_tags,if_multiple_separate_by_commas" appfeat="home_screen" mobilethumbnail="prism.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/prism.png" mobilelandscapethumbnail="prism_LANDSCAPE.jpg">
+    <name>prism_feed</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_prism.3gp" mainfile="_VINTa2Qi8o">
+        <title>Stream all your favorite content onto one screen with HTC BlinkFeed</title>
+        <description>Use HTC BlinkFeed™ to build your own home screen by populating it with information and updates that you want. Since it’s constantly refreshed, you’re always up-to-date.</description>
+      <size>32404816</size><crc32>388244843</crc32></link>	
+    </links>
+  </video><video tags="topic_tag-camera-capture_previous_moments,topic_tag-gallery-collage" appfeat="camera" mobilethumbnail="zoe_shoebox.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/zoe_shoebox.png" mobilelandscapethumbnail="zoe_shoebox_LANDSCAPE.jpg">
+    <name>zoe_capture_share</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_zoe_capture_share.3gp" mainfile="FmB1LztzEVM">
+        <title>Bring your gallery to life with HTC Zoe</title>
+        <description>Inject life and emotion into your memories using HTC Zoe™. Then, share them right away on HTC Share.</description>
+      <size>38398737</size><crc32>1063820072</crc32></link>
+    </links>
+  </video><video tags="topic_tag-gallery-view_event_highlights,topic_tag-gallery-collage" appfeat="gallery" mobilethumbnail="zero_editing.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/zero_editing.png" mobilelandscapethumbnail="zero_editing_LANDSCAPE.jpg">
+    <name>zoe_highlights</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_zoe_highlights.3gp" mainfile="f3h5uU_dwQE">
+        <title>Instantly create and share events with Video Highlights</title>
+        <description>Video Highlights instantly creates a short movie from your photos and videos that you can immediately share.</description>
+      <size>37346941</size><crc32>2192868363</crc32></link>
+    </links>
+  </video><video tags="topic_tag-gallery-remove_object,topic_tag-camera-capture_previous_moments" appfeat="gallery" mobilethumbnail="object_removal.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/object_removal.png" mobilelandscapethumbnail="object_removal_LANDSCAPE.jpg">
+    <name>object_removal</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_object_removal.3gp" mainfile="b_B5t0d0avU">
+        <title>Remove unwanted passersby from a photo</title>
+        <description>You’re taking a picture, but a stranger has strayed into the scene, ruining an otherwise great shot. With Object Removal, it’s a snap to remove passersby and other stray objects.</description>
+      <size>30589157</size><crc32>3695230784</crc32></link>
+    </links>
+  </video><video tags="topic_tag-gallery-combine_action_shots,topic_tag-camera-continuous_shots" appfeat="gallery" mobilethumbnail="time_breaking.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/time_breaking.png" mobilelandscapethumbnail="time_breaking_LANDSCAPE.jpg">
+    <name>time_breaking</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_sequence_shot.3gp" mainfile="cNCmfk3x90g">
+        <title>Tell the whole story in one photo</title>
+        <description>Get your photos to show more action by creating a Sequence Shot. You can merge up to 5 action pictures to create a unique and dynamic montage.</description>
+      <size>28892108</size><crc32>1799719242</crc32></link>
+    </links>
+  </video><video tags="topic_tag-gallery-change_playback_speed,topic_tag-camera-slow_motion" appfeat="gallery" mobilethumbnail="variable_speed.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/variable_speed.png" mobilelandscapethumbnail="variable_speed_LANDSCAPE.jpg">
+    <name>variable_speed</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_vsp.3gp" mainfile="fL3MJzHs4Gk">
+        <title>Compose a video with variable speed playback</title>
+        <description>Add a little drama by slowing down a particular scene. Highlight that dramatic moment by applying variable speed playback.</description>
+      <size>36557680</size><crc32>1099104981</crc32></link>
+    </links>
+  </video>
+  <video tags="topic_tags,if_multiple_separate_by_commas" appfeat="transfer_data" mobilethumbnail="frisbee_transfer.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/frisbee_transfer.png" mobilelandscapethumbnail="frisbee_transfer_LANDSCAPE.jpg">
+    <name>frisbee_transfer</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_frisbee_update.3gp" mainfile="qjIOVkJILqQ">
+        <title>Move stuff from an old Android phone to a new one</title>
+        <description>Wondering how to move stuff from your old Android phone to your new HTC phone? With HTC Transfer, move your contacts, text messages, settings, and more in just a few simple steps.</description>
+      <size>35700058</size><crc32>1010229217</crc32></link>	
+    </links>
+    </video><video tags="topic_tag-gallery-pick_best_face" appfeat="gallery" mobilethumbnail="always_smile.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/always_smile.png" mobilelandscapethumbnail="always_smile_LANDSCAPE.jpg">
+    <name>always_smile</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_always_smile.3gp" mainfile="OKmFZx1bPIU">
+        <title>Capture that great group shot</title>
+        <description>It’s hard to get everybody posed and ready at the same time. With Always Smile, you can have a group shot that will make everyone happy.</description>
+      <size>37626612</size><crc32>2475758136</crc32></link>
+    </links>
+  </video><video tags="topic_tags,if_multiple_separate_by_commas" appfeat="htc_sync_manager" mobilethumbnail="hsm_iphone.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/hsm_iphone.png" mobilelandscapethumbnail="hsm_iphone_LANDSCAPE.jpg">
+    <name>hsm_iphone</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_hsm_iphone.3gp" mainfile="brfsysmuzF4">
+        <title>Move iPhone stuff to your phone with HTC Sync Manager</title>
+        <description>With HTC Sync Manager, moving your iPhone stuff to an HTC Android phone is fast and easy.</description>
+      <size>33822410</size><crc32>1901850925</crc32></link>	
+    </links>
+  </video><video tags="topic_tags,if_multiple_separate_by_commas" appfeat="htc_sync_manager" mobilethumbnail="hsm_manage.jpg" mainthumbnail="/uploadedImages/Common/HowTo/HTC_ONE/hsm_manage.png" mobilelandscapethumbnail="hsm_manage_LANDSCAPE.jpg">
+    <name>hsm_manage_content</name>
+    <links>
+      <link lang="en-US" cmscode="1033" caption="en" mobilefile="http://10.116.80.10/testpub/SENSE50VIDEO2/video/mobile_hsm_manage.3gp" mainfile="bd46P2v9IKU">
+        <title>Manage files between your phone and computer</title>
+        <description>With HTC Sync Manager, you can easily manage your music, photos, documents, and other stuff between your phone and computer.</description>
+      <size>38539617</size><crc32>2975299804</crc32></link>	
+    </links>
+  </video></videos>

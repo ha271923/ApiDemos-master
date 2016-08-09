@@ -1,0 +1,356 @@
+/* For User Education on-device how-tos */
+/* Release version 2.0 */
+
+body { margin: 10px;  font-family: "droid sans", Arial; /* border-right: 1px #000000 solid; */ font-size: 24px; height:100%; }
+
+a.item_title:link, a.item_title:hover, a.item_title:visited, a.item_title:active {color: black; text-decoration: none;}
+
+
+ul.item_list { font-size: 32px; list-style: none; margin: -10px; padding: 0; }
+ul.item_list li { border-bottom: 1px #cccccc solid; }
+ul.item_list li .item_title { 
+	height: 76px; 
+	display: table; 
+	width:100%;
+}
+
+ul.item_list li .middle {display: table-row; height: 76px; }
+ul.item_list li .inner {display: table-cell; vertical-align: middle; padding-left: 96px; }
+.gcm_content_3 .middle {display: table-row; height: 76px;  border-bottom: 1px #cccccc solid;}
+.gcm_content_3 .inner {display: table-cell; vertical-align: middle; padding-left: 96px; }
+
+/* Current classes and filenames */
+.inner.icon_bluetooth {background: url(icon_launcher_bluetooth.png) 8px 2px no-repeat;}
+.inner.icon_calendar {background: url(icon_launcher_calendar.png) 8px 2px no-repeat;}
+.inner.icon_camera {background: url(icon_launcher_camera.png) 8px 2px no-repeat;}
+.inner.icon_email {background: url(icon_launcher_mail.png) 8px 2px no-repeat;}
+.inner.icon_essentialapps {background: url(icon_launcher_programs.png) 8px 2px no-repeat;}
+.inner.icon_firstweek {background: url(icon_launcher_show_me.png) 8px 2px no-repeat;}
+.inner.icon_htccar {background: url(icon_launcher_car_dock.png) 8px 2px no-repeat;}
+.inner.icon_internetconnections {background: url(icon_launcher_mobile_network.png) 8px 2px no-repeat;}
+.inner.icon_travelandmaps {background: url(icon_launcher_locations.png) 8px 2px no-repeat;}
+.inner.icon_messages {background: url(icon_launcher_messages.png) 8px 2px no-repeat;}
+.inner.icon_moreapps{background: url(icon_launcher_htc.png) 8px 2px no-repeat;}
+.inner.icon_music {background: url(icon_launcher_media_share.png) 8px 2px no-repeat;}
+.inner.icon_onlineservices {background: url(icon_launcher_watch.png) 8px 2px no-repeat;}
+.inner.icon_operatorapps {background: url(icon_launcher_app_association.png) 8px 2px no-repeat;}
+.inner.icon_otheressentials {background: url(icon_launcher_programs.png) 8px 2px no-repeat;}
+.inner.icon_people {background: url(icon_launcher_people.png) 8px 2px no-repeat;}
+.inner.icon_personalizing {background: url(icon_launcher_personalize.png) 8px 2px no-repeat;}
+.inner.icon_phonecalls{background: url(icon_launcher_phone.png) 8px 2px no-repeat;}
+.inner.icon_phone2computer {background: url(icon_launcher_usb2pc.png) 8px 2px no-repeat;}
+.inner.icon_searchandwebbrowser {background: url(icon_launcher_browser.png) 8px 2px no-repeat;}
+.inner.icon_settingsandsecurity {background: url(icon_launcher_settings.png) 8px 2px no-repeat;}
+.inner.icon_storage {background: url(icon_launcher_phone_storage.png) 8px 2px no-repeat;}
+.inner.icon_sync {background: url(icon_launcher_sync_all.png) 8px 2px no-repeat;}
+.inner.icon_unboxing {background: url(icon_launcher_htc_setup_wizard.png) 8px 2px no-repeat;}
+.inner.icon_webbrowser {background: url(icon_launcher_browser.png) 8px 2px no-repeat;}
+
+/* Old classes and filenames */
+.inner.icon_gettingstarted {background: url(icon_launcher_htc_setup_wizard.png) 8px 2px no-repeat;}
+.inner.icon_htcsync {background: url(icon_launcher_usb2pc.png) 8px 2px no-repeat;} 
+.inner.icon_mapsandlocation {background: url(icon_launcher_locations.png) 8px 2px no-repeat;}
+.inner.icon_settings {background: url(icon_launcher_settings.png) 8px 2px no-repeat;}
+
+/* Don't show icon on category page */
+h1.topictitle1 .inner{background: none;
+					 padding-left: 8px}
+
+div.gcm_content_3 a:link, a:active, a:hover { color: #505050;}
+div.gcm_content_3 a:visited { color: #505050 /* #82786f */; font-weight: normal;}
+
+div.gcm_content_3 .base { background-color: #ffffff; }
+
+/* div with class=p is used for paragraphs that contain blocks, to keep the XHTML valid */
+div.gcm_content_3 .p {margin-top: 1em}
+ 
+/* Most link groups are created with <div>. Ensure they have space before and after. Added family links, increased margin-top on relinfo */
+div.gcm_content_3 .familylinks { margin-top: 2em; margin-bottom: 1em }
+div.gcm_content_3 .ullinks { list-style-type: none }
+div.gcm_content_3 .ulchildlink { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .olchildlink { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .linklist { margin-bottom: 1em }
+div.gcm_content_3 .linklistwithchild { margin-left: 1.5em; margin-bottom: 1em  }
+div.gcm_content_3 .sublinklist { margin-left: 1.5em; margin-bottom: 1em  }
+div.gcm_content_3 .relconcepts { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .reltasks { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .relref { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .relinfo { margin-top: 2em; margin-bottom: 1em; }
+div.gcm_content_3 .breadcrumb { font-size : smaller; margin-bottom: 1em }
+
+/* Set heading sizes, getting smaller for deeper nesting. Increased topictitle1, topictitle2 margin-top */
+
+div.gcm_content_3 .topictitle1 {
+/*	margin:0 0 0.8em 0; */
+	font-size: 32px;
+}
+div.gcm_content_3 .topictitle2 { margin-top: 2em; margin-bottom: .45em; font-size: 28px; }
+div.gcm_content_3 .topictitle3 { margin-top: 1pc; margin-bottom: .17em; font-size: 24px; font-weight: bold; } 
+div.gcm_content_3 .topictitle4 { margin-top: .83em; font-size: 24px; font-style: italic; }
+div.gcm_content_3 .topictitle5 { font-size: 22px; font-weight: bold; }
+div.gcm_content_3 .topictitle6 { font-size: 22px; font-weight: bold; }
+div.gcm_content_3 .sectiontitle { margin-top: 1em; margin-bottom: 0em; color: black; font-size: 1em; font-weight: bold;}
+div.gcm_content_3 .section { margin-top: 1em; margin-bottom: 1em }
+/* Fix Section title too large*/
+div.gcm_content_3 div.section h2 { margin-top: 2em; margin-bottom: .45em; font-size: 28px; }
+div.gcm_content_3 .example { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 div.tasklabel { margin-top: 1em; margin-bottom: 1em; }
+div.gcm_content_3 h2.tasklabel, h3.tasklabel, h4.tasklabel, h5.tasklabel, h6.tasklabel { font-size: 100%; }
+
+/* All note formats have the same default presentation. Changed note title colors. */
+div.gcm_content_3 .note { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .notetitle { font-weight: bold; color: #336600; }
+div.gcm_content_3 .notelisttitle { font-weight: bold; color: #336600; }
+div.gcm_content_3 .tip { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .tiptitle { font-weight: bold; color: #336600; }
+div.gcm_content_3 .fastpath { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .fastpathtitle { font-weight: bold; color: #336600;  }
+div.gcm_content_3 .important { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .importanttitle { font-weight: bold; color: #336600;  }
+div.gcm_content_3 .remember { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .remembertitle { font-weight: bold; color: #336600;  }
+div.gcm_content_3 .restriction { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .restrictiontitle { font-weight: bold }
+div.gcm_content_3 .attention { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .attentiontitle { font-weight: bold; color: #CC0000; }
+div.gcm_content_3 .dangertitle { font-weight: bold }
+div.gcm_content_3 .danger { margin-top: 1em; margin-bottom : 1em;}
+div.gcm_content_3 .cautiontitle { font-weight: bold }
+div.gcm_content_3 .caution { font-weight: bold; margin-bottom : 1em; }
+
+/* Simple lists do not get a bullet */
+div.gcm_content_3 ul.simple { list-style-type: none }
+
+/* Used on the first column of a table, when rowheader="firstcol" is used */
+div.gcm_content_3 .firstcol { font-weight : bold;}
+
+/* Various basic phrase styles */
+div.gcm_content_3 .bold { font-weight: bold; }
+div.gcm_content_3 .boldItalic { font-weight: bold; font-style: italic; }
+div.gcm_content_3 .italic { font-style: italic; }
+div.gcm_content_3 .underlined { text-decoration: underline; }
+div.gcm_content_3 .uicontrol {	font-weight: bold; }
+div.gcm_content_3 .hw-button {	font-weight: inherit; }
+div.gcm_content_3 .parmname { font-weight: bold; }
+div.gcm_content_3 .kwd { font-weight: bold; }
+div.gcm_content_3 .defkwd { font-weight: bold; text-decoration: underline; }
+div.gcm_content_3 .var { font-style : italic;}
+div.gcm_content_3 .shortcut { text-decoration: underline; }
+
+/* Default of bold for definition list terms */
+div.gcm_content_3 .dlterm { font-weight: bold; }
+
+/* Use CSS to expand lists with @compact="no" */
+div.gcm_content_3 .dltermexpand { font-weight: bold; margin-top: 1em; }
+div.gcm_content_3 *[compact="yes"]>li { margin-top: 0em;}
+div.gcm_content_3 *[compact="no"]>li { margin-top: .53em;}	
+div.gcm_content_3 .liexpand { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .sliexpand { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .dlexpand { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .ddexpand { margin-top: 1em; margin-bottom: 1em }
+div.gcm_content_3 .stepexpand {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+div.gcm_content_3 .substepexpand { margin-top: 1em; margin-bottom: 1em }
+
+/* Screenshots, drawings */
+div.gcm_content_3 fig .screenshot, fig img {
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+div.gcm_content_3 img.screenshot{
+	border: 1px solid black;
+}
+div.gcm_content_3 .fig {margin-top: 1em; margin-bottom: 1em; }
+
+/* Provide ability to hide a whole div (for example a fig with computer screenshot) from HTML */
+div.gcm_content_3 div.hide_from_all_html {
+	display: none;
+}
+
+/* Provide ability to hide a whole div (for example a fig with computer screenshot) from mobile */
+div#learnmore div.gcm_content_3 div.hide_from_mobile {
+	display: none;
+}
+
+div#learnmore div.gcm_content_3 img {
+	max-width: 100%;
+}
+div#learnmore div.gcm_content_3 li img {
+	max-width: 100%;
+}
+div#learnmore div.gcm_content_3 li li img{
+	max-width: 100%;
+}
+div#learnmore div.gcm_content_3 table img {
+	margin-left: 0;
+	max-width: 200px;
+}
+
+/* Inline icons */
+div.gcm_content_3 .inline-icon {
+	vertical-align: middle;
+	max-height: 1.5em;
+}
+
+/* Table styles */
+div.gcm_content_3 table {
+	border: none;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	border-collapse: collapse;
+}
+div.gcm_content_3 td, div.gcm_content_3 th {
+	text-align: left;
+	border-top: 1px solid #C0C0C0;
+	border-right: none;
+	border-bottom: 1px solid #C0C0C0;
+	border-left: none;
+	background-color: #f2f2f2;
+}
+
+div.gcm_content_3 th {
+	border-top: 0px;
+	border-bottom: 1px solid #C0C0C0;
+}
+
+div.gcm_content_3 thead th {
+	font-weight: bold;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
+	padding-left: 0;
+	background-color: white;
+	border-top: none;
+}
+
+div.gcm_content_3 thead:first-child th {
+	padding-top: 0;
+}
+
+div.gcm_content_3 table p.p {
+	margin-top: 0;
+	margin-bottom: 0.2em;
+}
+
+/* Definition List Style */
+
+div.gcm_content_3 dt{
+	margin-top: 2em;
+}
+
+div.gcm_content_3 dd {
+margin-left: 0;
+} 
+
+div.gcm_content_3 dd {
+margin-top: 0.5em;
+}
+
+div.gcm_content_3 dd ul, div.gcm_content_3 dd div.p {
+margin-top: 0;
+}
+
+
+/* Monospace styles */
+div.gcm_content_3 span.filepath, div.gcm_content_3 .userinput { 
+	font-family:monospace; 
+	}
+
+/* Manage OLs, ULs incl nesting*/
+div.gcm_content_3 ol, div.gcm_content_3 ul, div.gcm_content_3 li {
+	padding: 0;
+	border: 0; 
+	outline: 0;
+	font-size: 100%;
+	background: transparent;
+	word-break: normal;
+	margin-left: 1em;
+}
+div.gcm_content_3 ol li {
+	margin-left: 1em;
+	list-style-type: decimal; list-style-position: outside;
+}
+div.gcm_content_3 ol li, div.gcm_content_3 ul li, div.gcm_content_3 ol li.stepexpand, div.gcm_content_3 li.substepexpand {
+	margin-top: 0.5em;/* Kevin_100308*/
+	margin-bottom: 0.5em;
+}
+div.gcm_content_3 ul li {
+	margin-left: 1em;
+}
+div.gcm_content_3 ol ul li {
+/*	margin-left:1.5em; */
+	list-style-type: square;
+	list-style-position: outside;
+}
+
+div.gcm_content_3 ul ol li {
+/* margin-left: 1.5em; */
+	list-style-type: decimal;
+}
+
+div.gcm_content_3 li a {
+	display: none;
+}
+div.gcm_content_3 li.ulchildlink a {
+	display: inline;
+}
+div.gcm_content_3 li a.xref {
+	display: inline;
+}
+
+/* Formatting for steps that are in a table */
+div.gcm_content_3 ol table ol li {
+	margin-left: 1em;
+	list-style-type: decimal;
+}
+
+/***********************  Category pages **************************************/
+
+div.this_is_category h1 {border-bottom: #cccccc 1px solid; margin: -10px;}
+div.this_is_category h1 .inner {font-size: 32px; font-weight: normal;}
+div.this_is_category li.ulchildlink {font-size: 28px; margin-left: 0;}
+div.this_is_category li.ulchildlink strong { font-weight: normal;}
+
+div#learnmore div.gcm_content_3 div.this_is_category .topictitle1 {padding-left: 0; font-weight: normal;}
+
+/* Formatting for topicheads, which divide sections of how-tos within a category */
+div.gcm_content_3 li.topichead {
+	font-size: 28px;
+	margin-left: 0px;
+}
+
+/*********************** Child links and related links ***********************/
+
+div.relinfo {font-size: 28px}
+div.relinfo div {margin-top: 5px; margin-bottom: 15px;}
+
+div.gcm_content_3 .ulchildlink { 
+	margin-top:5px;
+	margin-bottom:15px;
+	margin-left:0px;
+	font-size:28px;
+}
+div.gcm_content_3 .ulchildlink a { 
+	font-weight:normal;
+}
+div.gcm_content_3 .ulchildlink > br { 
+	display: none;
+}
+div.reltopics strong {
+	display: none;
+}
+div.reltopics > br {
+	display: none;
+}
+div.gcm_content_3 .relinfo { 
+	margin: 0; 
+}
+div.gcm_content_3 .familylinks { 
+	margin: 0; 
+}
+div.gcm_content_3 div.related-links ul.ullinks {
+	margin-left: 0;
+	margin-bottom: 0;
+}
