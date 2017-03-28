@@ -153,11 +153,23 @@ public class ApiDemos extends ListActivity {
     private void printCurrentActivityName(Intent intent){
         // Hawk: print the current activity name on logcat
         String NowClassName = intent.getComponent().getClassName();
-        String RootClassName = "com.example.android.apis.ApiDemos";
+        String RootClassName = "sample.hawk.com.mybasicappcomponents.MainActivity";
         if(NowClassName.equals(RootClassName))
             ;
-        else
+        else{
             Log.e("Hawk:" , NowClassName);
+            broadcast_to_DebugMsgReceiver(NowClassName);
+        }
     }
+
+    private void broadcast_to_DebugMsgReceiver(String className){
+        Log.d("Hawk", "broadcast_to_DebugMsgReceiver("+className+")");
+        Intent intent = new Intent("sample.hawk.com.mybasicappcomponents.debugmsg");
+        // You can also include some extra data.
+        intent.putExtra("ClassName", className);
+        sendBroadcast(intent);
+        // LocalBroadcastManager.getInstance(this).sendBroadcast(intent);
+    }
+
 
 }
