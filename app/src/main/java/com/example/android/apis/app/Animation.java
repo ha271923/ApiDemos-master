@@ -18,8 +18,6 @@ package com.example.android.apis.app;
 
 // Need the following import to get access to the app resources, since this
 // class is in a sub-package.
-import com.example.android.apis.R;
-
 import android.app.Activity;
 import android.app.ActivityOptions;
 import android.content.Intent;
@@ -31,9 +29,13 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+import com.example.android.apis.R;
+
 
 /**
  * <p>Example of using a custom animation when transitioning between activities.</p>
+ *
+ * 利用了overridePendingTransition()與ActivityOptions來改動Activity預設的轉場動畫(Transition)方式
  */
 public class Animation extends Activity {
     private static final String TAG = "Animation";
@@ -82,7 +84,7 @@ public class Animation extends Activity {
             // activity on top.  Note that we need to also supply an animation
             // (here just doing nothing for the same amount of time) for the
             // old activity to prevent it from going away too soon.
-            overridePendingTransition(R.anim.fade, R.anim.hold);
+            overridePendingTransition(R.anim.fade, R.anim.hold); // 因為startActivity呼叫後, 並未立即執行start, 所以在此仍可override尚未執行的transition
         }
     };
 
@@ -124,7 +126,7 @@ public class Animation extends Activity {
             // to be Z-ordered on top (even though it really isn't) to achieve
             // the effect we want.
             ActivityOptions opts = ActivityOptions.makeCustomAnimation(Animation.this,
-                    R.anim.zoom_enter, R.anim.zoom_enter);
+                    R.anim.zoom_enter, R.anim.zoom_enter); // 設定自行定義的Activity Transition Animation參數
             // Request the activity be started, using the custom animation options.
             startActivity(new Intent(Animation.this, AlertDialogSamples.class), opts.toBundle());
         }
@@ -136,7 +138,7 @@ public class Animation extends Activity {
             // Create a scale-up animation that originates at the button
             // being pressed.
             ActivityOptions opts = ActivityOptions.makeScaleUpAnimation(
-                    v, 0, 0, v.getWidth(), v.getHeight());
+                    v, 0, 0, v.getWidth(), v.getHeight()); // 把Scale轉場動畫縮放的起點設定在從這顆按鈕的位置開始
             // Request the activity be started, using the custom animation options.
             startActivity(new Intent(Animation.this, AlertDialogSamples.class), opts.toBundle());
         }
@@ -156,7 +158,7 @@ public class Animation extends Activity {
             Canvas c = new Canvas(bm);
             //c.drawARGB(255, 255, 0, 0);
             ActivityOptions opts = ActivityOptions.makeThumbnailScaleUpAnimation(
-                    v, bm, 0, 0);
+                    v, bm, 0, 0); // 把Zoom轉場動畫縮放的起點設定在從這顆按鈕的位置開始
             // Request the activity be started, using the custom animation options.
             startActivity(new Intent(Animation.this, AlertDialogSamples.class), opts.toBundle());
             v.setDrawingCacheEnabled(false);
@@ -168,7 +170,7 @@ public class Animation extends Activity {
             Log.i(TAG, "Starting no animation transition...");
             // Request the next activity transition (here starting a new one).
             startActivity(new Intent(Animation.this, AlertDialogSamples.class));
-            overridePendingTransition(0, 0);
+            overridePendingTransition(0, 0); // 把轉場動畫還原到預設狀態
         }
     };
 }
