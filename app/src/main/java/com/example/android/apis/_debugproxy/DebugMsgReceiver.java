@@ -17,7 +17,7 @@ public class DebugMsgReceiver extends BroadcastReceiver {
     }
 
     public void onReceive(Context context, Intent intent) {
-        if("sample.hawk.com.mybasicappcomponents.debugmsg".equals(intent.getAction())){
+        if("com.example.android.apis.debugmsg".equals(intent.getAction())){
             String className = intent.getStringExtra("ClassName");
             Log.d("Hawk","ClassName: " + className);
             mListener.onDebugMsgUpdate(className);

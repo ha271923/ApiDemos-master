@@ -17,7 +17,7 @@ public class MyAccessibilityService extends AccessibilityService {
     private static MyAccessibilityService mMyAccessibilityService;
 
     static {
-        ComponentName componentName = new ComponentName("sample.hawk.com.mybasicappcomponents", MyAccessibilityService.class.getName());
+        ComponentName componentName = new ComponentName("com.example.android.apis", MyAccessibilityService.class.getName());
     }
 
     public static boolean ActionNotification(Context context) {

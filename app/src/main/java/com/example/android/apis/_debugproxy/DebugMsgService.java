@@ -83,7 +83,7 @@ public class DebugMsgService extends Service implements GestureDetector.OnGestur
     }
 
     public void onCreate() {
-        // store at: /data/data/sample.hawk.com.mybasicappcomponents/shared_prefs/sample.hawk.com.mybasicappcomponents_preferences.xml
+        // store at: /data/data/com.example.android.apis/shared_prefs/com.example.android.apis_preferences.xml
         this.AppPref = PreferenceManager.getDefaultSharedPreferences(this);
         this.bForceNotification = this.AppPref.getBoolean("prefForceNotification", false);
         this.bTapNotice = this.AppPref.getBoolean("prefTapNotice", true);
@@ -118,7 +118,7 @@ public class DebugMsgService extends Service implements GestureDetector.OnGestur
             this.GestureDectorTextView.setBackgroundColor(Color.argb(getAlpha(detectAreaObj.DetectAreaTransparent),rr,gg,bb)); // Hawk: transparent the GestureDectorLineButton
         }
 
-        IntentFilter intentFilterForReceiver = new IntentFilter("sample.hawk.com.mybasicappcomponents.debugmsg");
+        IntentFilter intentFilterForReceiver = new IntentFilter("com.example.android.apis.debugmsg");
         DebugMsgService_Listener dbg_listener = new DebugMsgService_Listener();
         mDbg_receiver = new DebugMsgReceiver(dbg_listener);
         registerReceiver(mDbg_receiver, intentFilterForReceiver);
