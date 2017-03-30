@@ -18,10 +18,10 @@ package com.example.android.apis.app;
 
 // Need the following import to get access to the app resources, since this
 // class is in a sub-package.
-import com.example.android.apis.R;
-
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.example.android.apis.R;
 
 /**
  * <h3>Dialog Activity</h3>
@@ -43,6 +43,6 @@ public class CustomDialogActivity extends Activity {
         // See assets/res/any/layout/dialog_activity.xml for this
         // view layout definition, which is being set here as
         // the content of our screen.
-        setContentView(R.layout.custom_dialog_activity);
+        setContentView(R.layout.custom_dialog_activity); // AndroidManifest.xml 設定 android:theme="@style/Theme.CustomDialog"
     }
 }
