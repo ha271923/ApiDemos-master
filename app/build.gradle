@@ -6,7 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.android.apis"
-        minSdkVersion 19
+        // minSdkVersion 19 // For Samsung Note2 OS:4.4
+        minSdkVersion 21
         targetSdkVersion 23
         testApplicationId "com.example.android.apis.tests"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"

@@ -15,8 +15,6 @@
  */
 package com.example.android.apis.animation;
 
-import com.example.android.apis.R;
-
 import android.app.Activity;
 import android.app.ActivityOptions;
 import android.content.Intent;
@@ -26,8 +24,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.example.android.apis.R;
+
 /**
- *
+ * 兩個Activity間, 如何以相同的View element來進行場景的切換
+ * EX: Activity有8張圖, 在Activity1時按下鴨子(View), 此時以鴨子為動畫變化起始點, 並變化到 Activity2 仍有這個鴨子(View)
+ *     Activity1 的鴨子(View)之所以能延續到 Activity2 就是因為透過 sharedElements 分享
+ *     注意觀察 onMapSharedElements callback API 裡面將更新此參數 sharedElements.put(KEY_ID, View)
  */
 public class ActivityTransitionDetails extends Activity {
 

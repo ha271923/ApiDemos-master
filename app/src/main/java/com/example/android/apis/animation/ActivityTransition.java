@@ -15,22 +15,26 @@
  */
 package com.example.android.apis.animation;
 
-import com.example.android.apis.R;
-
 import android.app.Activity;
 import android.app.ActivityOptions;
 import android.app.SharedElementCallback;
 import android.content.Intent;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.example.android.apis.R;
 
 import java.util.List;
 import java.util.Map;
 
 /**
- *
+ * 兩個Activity間, 如何以相同的View element來進行場景的切換
+ * EX: Activity有8張圖, 在Activity1時按下鴨子(View), 此時以鴨子為動畫變化起始點, 並變化到 Activity2 仍有這個鴨子(View)
+ *     Activity1 的鴨子(View)之所以能延續到 Activity2 就是因為透過 sharedElements 分享
+ *     注意觀察 onMapSharedElements callback API 裡面將更新此參數 sharedElements.put(KEY_ID, View)
  */
 public class ActivityTransition extends Activity {
 
@@ -107,8 +111,9 @@ public class ActivityTransition extends Activity {
             setEnterSharedElementCallback(new SharedElementCallback() {
                 @Override
                 public void onMapSharedElements(List<String> names,
-                        Map<String, View> sharedElements) {
-                    sharedElements.put("hero", mHero);
+                        Map<String, View> sharedElements) { // 不知道何時輝呼叫到此處? 因BreakPoint與Log都不會出現
+                    Log.v("Hawk","onMapSharedElements() callback");
+                    sharedElements.put("hero", mHero); // key, View
                 }
             });
         }
