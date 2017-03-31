@@ -18,10 +18,9 @@ package com.example.android.apis.animation;
 
 // Need the following import to get access to the app resources, since this
 // class is in a sub-package.
-import android.widget.Button;
-import com.example.android.apis.R;
-
-import android.animation.*;
+import android.animation.AnimatorSet;
+import android.animation.ObjectAnimator;
+import android.animation.ValueAnimator;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Canvas;
@@ -34,7 +33,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.DecelerateInterpolator;
+import android.widget.Button;
 import android.widget.LinearLayout;
+
+import com.example.android.apis.R;
 
 import java.util.ArrayList;
 
@@ -47,7 +49,7 @@ public class AnimationCloning extends Activity {
         setContentView(R.layout.animation_cloning);
         LinearLayout container = (LinearLayout) findViewById(R.id.container);
         final MyAnimationView animView = new MyAnimationView(this);
-        container.addView(animView);
+        container.addView(animView); // 在一個Layout上, 動態新增一個View
 
         Button starter = (Button) findViewById(R.id.startButton);
         starter.setOnClickListener(new View.OnClickListener() {
@@ -57,7 +59,7 @@ public class AnimationCloning extends Activity {
             }
         });
     }
-
+    // 一個View要變成Animation時, 需要implement相關animation的interface
     public class MyAnimationView extends View implements ValueAnimator.AnimatorUpdateListener {
 
         public final ArrayList<ShapeHolder> balls = new ArrayList<ShapeHolder>();
@@ -75,27 +77,32 @@ public class AnimationCloning extends Activity {
             ShapeHolder ball3 = addBall(350f, 25f);
         }
 
-        private void createAnimation() {
+        private void createAnimation() { // STEP2: 時間軸要安排演員出場順序及行為與劇本
+            // ball[0], ball[1], ball[2], ball[3]  == 演員
+            //  get(0),  get(1),  get(2),  get(3)
+            //    Down,    Down, Down+Up, Down+Up  == 表演內容
+            //    Anim,    Anim, AnimSet, AnimSet  == 順序安排
+
             if (animation == null) {
                 ObjectAnimator anim1 = ObjectAnimator.ofFloat(balls.get(0), "y",
                         0f, getHeight() - balls.get(0).getHeight()).setDuration(500);
-                ObjectAnimator anim2 = anim1.clone();
-                anim2.setTarget(balls.get(1));
-                anim1.addUpdateListener(this);
+                ObjectAnimator anim2 = anim1.clone(); // 為了ball[0],[1]有一樣的動畫, 所以先clone出一個anim2
+                anim2.setTarget(balls.get(1)); // 動畫設定給哪個view
+                anim1.addUpdateListener(this); // ** 每次運行anim時, 需要對View手動invalidate()來更新動畫{在callback onAnimationUpdate()中}
 
-                ShapeHolder ball2 = balls.get(2);
+                ShapeHolder ball2 = balls.get(2); // ball[2]是一顆彈跳的球
                 ObjectAnimator animDown = ObjectAnimator.ofFloat(ball2, "y",
-                        0f, getHeight() - ball2.getHeight()).setDuration(500);
+                        0f, getHeight() - ball2.getHeight()).setDuration(500); // 設計落下動畫
                 animDown.setInterpolator(new AccelerateInterpolator());
                 ObjectAnimator animUp = ObjectAnimator.ofFloat(ball2, "y",
-                        getHeight() - ball2.getHeight(), 0f).setDuration(500);
-                animUp.setInterpolator(new DecelerateInterpolator());
+                        getHeight() - ball2.getHeight(), 0f).setDuration(500); // 設計回彈動畫
+                animUp.setInterpolator(new DecelerateInterpolator()); // 回彈時, 速度感表現
                 AnimatorSet s1 = new AnimatorSet();
-                s1.playSequentially(animDown, animUp);
+                s1.playSequentially(animDown, animUp); // 動畫組合中設計animDown與animUp的順序
                 animDown.addUpdateListener(this);
                 animUp.addUpdateListener(this);
-                AnimatorSet s2 = (AnimatorSet) s1.clone();
-                s2.setTarget(balls.get(3));
+                AnimatorSet s2 = (AnimatorSet) s1.clone(); // 因為都是回彈動畫, 所以複製
+                s2.setTarget(balls.get(3)); // 動畫設定給哪個view
 
                 animation = new AnimatorSet();
                 animation.playTogether(anim1, anim2, s1);
@@ -103,7 +110,7 @@ public class AnimationCloning extends Activity {
             }
         }
 
-        private ShapeHolder addBall(float x, float y) {
+        private ShapeHolder addBall(float x, float y) { // STEP1: 增加演員 View
             OvalShape circle = new OvalShape();
             circle.resize(50f * mDensity, 50f * mDensity);
             ShapeDrawable drawable = new ShapeDrawable(circle);
@@ -120,7 +127,7 @@ public class AnimationCloning extends Activity {
                     50f, color, darkColor, Shader.TileMode.CLAMP);
             paint.setShader(gradient);
             shapeHolder.setPaint(paint);
-            balls.add(shapeHolder);
+            balls.add(shapeHolder); // 把產生的圖片放入List中
             return shapeHolder;
         }
 
@@ -137,11 +144,11 @@ public class AnimationCloning extends Activity {
 
         public void startAnimation() {
             createAnimation();
-            animation.start();
+            animation.start(); // STEP3: 演員都設置好就開演了
         }
 
         public void onAnimationUpdate(ValueAnimator animation) {
-            invalidate();
+            invalidate();  // ** 每次運行anim時, 需要對View手動invalidate()來更新動畫{在callback onAnimationUpdate()中}
         }
 
     }
